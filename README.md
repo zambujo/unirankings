@@ -1,0 +1,4 @@
+unirankings
+===========
+
+university ranking distributions

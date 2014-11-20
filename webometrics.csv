@@ -1,209 +1,231 @@
-Country;Top100;Top200;Top500;Top1000;Top5000;Top10000;TOTAL
-USA;66;91;154;264;1345;2671;3301
-Canada;7;11;23;32;92;187;331
-United Kingdom;4;12;32;62;138;208;299
-Germany;3;19;43;60;167;289;415
-China;3;7;35;106;766;1080;1169
-Japan;2;4;11;30;244;614;1004
-Switzerland;2;4;8;10;24;54;103
-Spain;1;7;26;45;77;110;236
-Netherlands;1;7;11;12;28;55;145
-Australia;1;6;12;26;43;59;101
-Italy;1;2;17;36;73;114;237
-South Korea;1;2;11;21;103;212;389
-Taiwan;1;2;8;32;114;157;159
-Belgium;1;2;7;7;20;47;89
-Hong Kong;1;2;5;6;12;15;24
-Brazil;1;1;10;25;143;318;1648
-Austria;1;1;5;10;30;58;76
-Czech Republic;1;1;3;8;24;45;82
-Singapore;1;1;2;2;7;21;49
-Mexico;1;1;1;6;52;102;907
-Sweden;0;5;10;11;29;38;49
-Denmark;0;3;5;6;11;32;83
-Norway;0;3;4;4;27;44;63
-Israel;0;2;6;7;16;33;35
-Portugal;0;1;5;6;30;56;109
-Finland;0;1;4;9;22;45;48
-Slovenia;0;1;2;2;4;7;39
-Russia;0;1;1;8;148;430;1197
-France;0;0;7;26;156;283;588
-Thailand;0;0;7;13;78;130;188
-Poland;0;0;5;12;72;203;438
-Greece;0;0;3;9;28;46;79
-Hungary;0;0;3;7;19;45;75
-Ireland;0;0;3;6;16;28;49
-New Zealand;0;0;2;6;10;22;48
-South Africa;0;0;1;6;17;22;135
-Chile;0;0;1;4;34;54;79
-Colombia;0;0;1;3;39;89;298
-Argentina;0;0;1;3;34;79;115
-Saudi Arabia;0;0;1;3;16;33;58
-Estonia;0;0;1;2;5;14;35
-Egypt;0;0;1;1;19;28;59
-Croatia;0;0;1;1;5;14;58
-Iceland;0;0;1;1;3;7;8
-Turkey;0;0;0;10;74;135;165
-Malaysia;0;0;0;6;26;51;92
-Iran;0;0;0;5;63;138;609
-India;0;0;0;4;90;289;1638
-Indonesia;0;0;0;3;60;137;410
-Romania;0;0;0;3;23;54;112
-Slovakia;0;0;0;2;14;25;33
-Ukraine;0;0;0;1;30;100;313
-Peru;0;0;0;1;14;43;94
-Lithuania;0;0;0;1;9;22;46
-Bulgaria;0;0;0;1;8;35;56
-Belarus;0;0;0;1;7;33;60
-Puerto Rico;0;0;0;1;6;17;38
-Latvia;0;0;0;1;5;19;58
-Macao;0;0;0;1;5;7;11
-Costa Rica;0;0;0;1;4;13;64
-Serbia;0;0;0;1;4;9;48
-Cyprus;0;0;0;1;4;9;17
-Viet Nam;0;0;0;0;26;74;121
-Ecuador;0;0;0;0;15;32;62
-Pakistan;0;0;0;0;11;44;301
-Venezuela;0;0;0;0;10;23;70
-Nigeria;0;0;0;0;8;23;137
-Philippines;0;0;0;0;7;33;277
-Algeria;0;0;0;0;7;28;84
-Morocco;0;0;0;0;7;18;214
-Uruguay;0;0;0;0;6;19;35
-United Arab Emirates;0;0;0;0;6;15;50
-Jordan;0;0;0;0;6;13;33
-Sri Lanka;0;0;0;0;6;8;30
-Palestine;0;0;0;0;5;12;17
-Kenya;0;0;0;0;5;10;65
-Lebanon;0;0;0;0;5;10;41
-Kazakhstan;0;0;0;0;4;34;116
-Bosnia and Herzegovina;0;0;0;0;3;10;74
-Georgia;0;0;0;0;3;9;64
-Bolivia;0;0;0;0;3;9;46
-Cuba;0;0;0;0;3;9;33
-Guatemala;0;0;0;0;3;7;20
-Ghana;0;0;0;0;3;6;51
-Nicaragua;0;0;0;0;3;5;43
-Bangladesh;0;0;0;0;2;17;108
-Iraq;0;0;0;0;2;12;57
-Dominican Republic;0;0;0;0;2;10;32
-El Salvador;0;0;0;0;2;9;38
-Paraguay;0;0;0;0;2;6;43
-Moldova;0;0;0;0;2;5;26
-Kuwait;0;0;0;0;2;5;11
-North Cyprus;0;0;0;0;2;5;6
-Sudan;0;0;0;0;2;4;41
-Jamaica;0;0;0;0;2;4;25
-Panama;0;0;0;0;2;3;29
-Qatar;0;0;0;0;2;3;6
-Namibia;0;0;0;0;2;2;4
-Tunisia;0;0;0;0;1;8;199
-Tanzania;0;0;0;0;1;5;33
-Uganda;0;0;0;0;1;5;31
-Armenia;0;0;0;0;1;5;28
-Oman;0;0;0;0;1;5;28
-Macedonia FYR;0;0;0;0;1;4;19
-Honduras;0;0;0;0;1;4;15
-Ethiopia;0;0;0;0;1;3;32
-Zimbabwe;0;0;0;0;1;3;12
-Trinidad and Tobago;0;0;0;0;1;3;8
-Mongolia;0;0;0;0;1;2;21
-Bahrain;0;0;0;0;1;2;16
-Rwanda;0;0;0;0;1;2;12
-Senegal;0;0;0;0;1;2;12
-Benin;0;0;0;0;1;2;7
-Mauritius;0;0;0;0;1;2;6
-Fiji;0;0;0;0;1;2;5
-Malta;0;0;0;0;1;2;5
-Barbados;0;0;0;0;1;2;3
-Guam;0;0;0;0;1;2;3
-Montenegro;0;0;0;0;1;2;3
-Afghanistan;0;0;0;0;1;1;43
-Cambodia;0;0;0;0;1;1;39
-Zambia;0;0;0;0;1;1;17
-Libya;0;0;0;0;1;1;14
-Mozambique;0;0;0;0;1;1;9
-Botswana;0;0;0;0;1;1;8
-Brunei Darussalam;0;0;0;0;1;1;6
-Dominica;0;0;0;0;1;1;3
-Luxembourg;0;0;0;0;1;1;3
-Grenada;0;0;0;0;1;1;2
-New Caledonia;0;0;0;0;1;1;1
-Virgin Islands US;0;0;0;0;1;1;1
-Azerbaijan;0;0;0;0;0;5;41
-Syrian Arab Republic;0;0;0;0;0;5;22
-Kyrgyzstan;0;0;0;0;0;4;24
-Albania;0;0;0;0;0;3;41
-Nepal;0;0;0;0;0;3;25
-International;0;0;0;0;0;3;7
-Burkina Faso;0;0;0;0;0;2;6
-Uzbekistan;0;0;0;0;0;1;66
-Somalia;0;0;0;0;0;1;25
-Haiti;0;0;0;0;0;1;17
-Cameroon;0;0;0;0;0;1;15
-Yemen;0;0;0;0;0;1;15
-Bhutan;0;0;0;0;0;1;10
-Madagascar;0;0;0;0;0;1;7
-Malawi;0;0;0;0;0;1;7
-Papua New Guinea;0;0;0;0;0;1;6
-Belize;0;0;0;0;0;1;4
-Guyana;0;0;0;0;0;1;4
-Lao;0;0;0;0;0;1;4
-Vanuatu;0;0;0;0;0;1;4
-Bahamas;0;0;0;0;0;1;3
-Cape Verde;0;0;0;0;0;1;3
-Curaçao;0;0;0;0;0;1;3
-Liechtenstein;0;0;0;0;0;1;3
-Mauritania;0;0;0;0;0;1;3
-Chad;0;0;0;0;0;1;3
-Antigua and Barbuda;0;0;0;0;0;1;2
-Swaziland;0;0;0;0;0;1;2
-American Samoa;0;0;0;0;0;1;1
-Micronesia;0;0;0;0;0;1;1
-Faroe Islands;0;0;0;0;0;1;1
-Northern Mariana Islands;0;0;0;0;0;1;1
-French Polynesia;0;0;0;0;0;1;1
-San Marino;0;0;0;0;0;1;1
-Suriname;0;0;0;0;0;1;1
-Angola;0;0;0;0;0;0;23
-Congo Democratic Republic;0;0;0;0;0;0;16
-Tajikistan;0;0;0;0;0;0;14
-Saint Kitts and Nevis;0;0;0;0;0;0;6
-Côte d'Ivoire;0;0;0;0;0;0;5
-Myanmar;0;0;0;0;0;0;5
-Burundi;0;0;0;0;0;0;4
-Cayman Islands;0;0;0;0;0;0;4
-Dutch Antilles;0;0;0;0;0;0;3
-Aruba;0;0;0;0;0;0;3
-Saint Lucia;0;0;0;0;0;0;3
-Liberia;0;0;0;0;0;0;3
-Togo;0;0;0;0;0;0;3
-Congo;0;0;0;0;0;0;2
-Eritrea;0;0;0;0;0;0;2
-Gabon;0;0;0;0;0;0;2
-Lesotho;0;0;0;0;0;0;2
-Seychelles;0;0;0;0;0;0;2
-Sierra Leone;0;0;0;0;0;0;2
-South Sudan;0;0;0;0;0;0;2
-Virgin Islands British;0;0;0;0;0;0;2
-Samoa;0;0;0;0;0;0;2
-Andorra;0;0;0;0;0;0;1
-Bermuda;0;0;0;0;0;0;1
-Central African Republic;0;0;0;0;0;0;1
-Djibouti;0;0;0;0;0;0;1
-Greenland;0;0;0;0;0;0;1
-Gambia;0;0;0;0;0;0;1
-Guinea;0;0;0;0;0;0;1
-Equatorial Guinea;0;0;0;0;0;0;1
-Isle of Man;0;0;0;0;0;0;1
-North Korea;0;0;0;0;0;0;1
-Monaco;0;0;0;0;0;0;1
-Marshall Islands;0;0;0;0;0;0;1
-Mali;0;0;0;0;0;0;1
-Maldives;0;0;0;0;0;0;1
-Niger;0;0;0;0;0;0;1
-Niue;0;0;0;0;0;0;1
-Palau;0;0;0;0;0;0;1
-Timor-Leste;0;0;0;0;0;0;1
-Tonga;0;0;0;0;0;0;1
-Total;100;200;500;1000;5000;10002;22123
+Country,Top100,Top200,Top500,Top1000,Top5000,Top10000,TOTAL
+USA,66,91,154,264,1345,2671,3301
+Canada,7,11,23,32,92,187,331
+United Kingdom,4,12,32,62,138,208,299
+Germany,3,19,43,60,167,289,415
+China,3,7,35,106,766,1080,1169
+Japan,2,4,11,30,244,614,1004
+Switzerland,2,4,8,10,24,54,103
+Spain,1,7,26,45,77,110,236
+Netherlands,1,7,11,12,28,55,145
+Australia,1,6,12,26,43,59,101
+Italy,1,2,17,36,73,114,237
+South Korea,1,2,11,21,103,212,389
+Taiwan,1,2,8,32,114,157,159
+Belgium,1,2,7,7,20,47,89
+Hong Kong,1,2,5,6,12,15,24
+Brazil,1,1,10,25,143,318,1648
+Austria,1,1,5,10,30,58,76
+Czech Republic,1,1,3,8,24,45,82
+Singapore,1,1,2,2,7,21,49
+Mexico,1,1,1,6,52,102,907
+Sweden,0,5,10,11,29,38,49
+Denmark,0,3,5,6,11,32,83
+Norway,0,3,4,4,27,44,63
+Israel,0,2,6,7,16,33,35
+Portugal,0,1,5,6,30,56,109
+Finland,0,1,4,9,22,45,48
+Slovenia,0,1,2,2,4,7,39
+Russia,0,1,1,8,148,430,1197
+France,0,0,7,26,156,283,588
+Thailand,0,0,7,13,78,130,188
+Poland,0,0,5,12,72,203,438
+Greece,0,0,3,9,28,46,79
+Hungary,0,0,3,7,19,45,75
+Ireland,0,0,3,6,16,28,49
+New Zealand,0,0,2,6,10,22,48
+South 
+
+Africa,0,0,1,6,17,22,135
+Chile,0,0,1,4,34,54,79
+Colombia,0,0,1,3,39,89,298
+Argentina,0,0,1,3,34,79,115
+Saudi 
+
+Arabia,0,0,1,3,16,33,58
+Estonia,0,0,1,2,5,14,35
+Egypt,0,0,1,1,19,28,59
+Croatia,0,0,1,1,5,14,58
+Iceland,0,0,1,1,3,7,8
+Turkey,0,0,0,10,74,135,165
+Malaysia,0,0,0,6,26,51,92
+Iran,0,0,0,5,63,138,609
+India,0,0,0,4,90,289,1638
+Indonesia,0,0,0,3,60,137,410
+Romania,0,0,0,3,23,54,112
+Slovakia,0,0,0,2,14,25,33
+Ukraine,0,0,0,1,30,100,313
+Peru,0,0,0,1,14,43,94
+Lithuania,0,0,0,1,9,22,46
+Bulgaria,0,0,0,1,8,35,56
+Belarus,0,0,0,1,7,33,60
+Puerto Rico,0,0,0,1,6,17,38
+Latvia,0,0,0,1,5,19,58
+Macao,0,0,0,1,5,7,11
+Costa 
+
+Rica,0,0,0,1,4,13,64
+Serbia,0,0,0,1,4,9,48
+Cyprus,0,0,0,1,4,9,17
+Viet Nam,0,0,0,0,26,74,121
+Ecuador,0,0,0,0,15,32,62
+Pakistan,0,0,0,0,11,44,301
+Venezuela,0,0,0,0,10,23,70
+Nigeria,0,0,0,0,8,23,137
+Philippines,0,0,0,0,7,33,277
+Algeria,0,0,0,0,7,28,84
+Morocco,0,0,0,0,7,18,214
+Uruguay,0,0,0,0,6,19,35
+United 
+
+Arab Emirates,0,0,0,0,6,15,50
+Jordan,0,0,0,0,6,13,33
+Sri Lanka,0,0,0,0,6,8,30
+Palestine,0,0,0,0,5,12,17
+Kenya,0,0,0,0,5,10,65
+Lebanon,0,0,0,0,5,10,41
+Kazakhstan,0,0,0,0,4,34,116
+Bosnia and 
+
+Herzegovina,0,0,0,0,3,10,74
+Georgia,0,0,0,0,3,9,64
+Bolivia,0,0,0,0,3,9,46
+Cuba,0,0,0,0,3,9,33
+Guatemala,0,0,0,0,3,7,20
+Ghana,0,0,0,0,3,6,51
+Nicaragua,0,0,0,0,3,5,43
+Bangladesh,0,0,0,0,2,17,108
+Iraq,0,0,0,0,2,12,57
+Dominican Republic,0,0,0,0,2,10,32
+El Salvador,0,0,0,0,2,9,38
+Paraguay,0,0,0,0,2,6,43
+Moldova,0,0,0,0,2,5,26
+Kuwait,0,0,0,0,2,5,11
+North Cyprus,0,0,0,0,2,5,6
+Sudan,0,0,0,0,2,4,41
+Jamaica,0,0,0,0,2,4,25
+Panama,0,0,0,0,2,3,29
+Qatar,0,0,0,0,2,3,6
+Namibia,0,0,0,0,2,2,4
+Tunisia,0,0,0,0,1,8,199
+Tanzania,0,0,0,0,1,5,33
+Uganda,0,0,0,0,1,5,31
+Armenia,0,0,0,0,1,5,28
+Oman,0,0,0,0,1,5,28
+Macedonia FYR,0,0,0,0,1,4,19
+Honduras,0,0,0,0,1,4,15
+Ethiopia,0,0,0,0,1,3,32
+Zimbabwe,0,0,0,0,1,3,12
+Trinidad and Tobago,0,0,0,0,1,3,8
+Mongolia,0,0,0,0,1,2,21
+Bahrain,0,0,0,0,1,2,16
+Rwanda,0,0,0,0,1,2,12
+Senegal,0,0,0,0,1,2,12
+Benin,0,0,0,0,1,2,7
+Mauritius,0,0,0,0,1,2,6
+Fiji,0,0,0,0,1,2,5
+Malta,0,0,0,0,1,2,5
+Barbados,0,0,0,0,1,2,3
+Guam,0,0,0,0,1,2,3
+Montenegro,0,0,0,0,1,2,3
+Afghanistan,0,0,0,0,1,1,43
+Cambodia,0,0,0,0,1,1,39
+Zambia,0,0,0,0,1,1,17
+Libya,0,0,0,0,1,1,14
+Mozambique,0,0,0,0,1,1,9
+Botswana,0,0,0,0,1,1,8
+Brunei Darussalam,0,0,0,0,1,1,6
+Dominica,0,0,0,0,1,1,3
+Luxembourg,0,0,0,0,1,1,3
+Grenada,0,0,0,0,1,1,2
+New Caledonia,0,0,0,0,1,1,1
+Virgin Islands US,0,0,0,0,1,1,1
+Azerbaijan,0,0,0,0,0,5,41
+Syrian Arab Republic,0,0,0,0,0,5,22
+Kyrgyzstan,0,0,0,0,0,4,24
+Albania,0,0,0,0,0,3,41
+Nepal,0,0,0,0,0,3,25
+International,0,0,0,0,0,3,7
+Burkina Faso,0,0,0,0,0,2,6
+Uzbekistan,0,0,0,0,0,1,66
+Somalia,0,0,0,0,0,1,25
+Haiti,0,0,0,0,0,1,17
+Cameroon,0,0,0,0,0,1,15
+Yemen,0,0,0,0,0,1,15
+Bhutan,0,0,0,0,0,1,10
+Madagascar,0,0,0,0,0,1,7
+Malawi,0,0,0,0,0,1,7
+Papua New 
+
+Guinea,0,0,0,0,0,1,6
+Belize,0,0,0,0,0,1,4
+Guyana,0,0,0,0,0,1,4
+Lao,0,0,0,0,0,1,4
+Vanuatu,0,0,0,0,0,1,4
+Bahamas,0,0,0,0,0,1,3
+Cape Verde,0,0,0,0,0,1,3
+Curaçao,0,0,0,0,0,1,3
+Liechtenstein,0,0,0,0,0,1,3
+Mauritania,0,0,0,0,0,1,3
+Chad,0,0,0,0,0,1,3
+Antigua and Barbuda,0,0,0,0,0,1,2
+Swaziland,0,0,0,0,0,1,2
+American Samoa,0,0,0,0,0,1,1
+Micronesia,0,0,0,0,0,1,1
+Faroe Islands,0,0,0,0,0,1,1
+Northern Mariana 
+
+Islands,0,0,0,0,0,1,1
+French Polynesia,0,0,0,0,0,1,1
+San Marino,0,0,0,0,0,1,1
+Suriname,0,0,0,0,0,1,1
+Angola,0,0,0,0,0,0,23
+Congo Democratic Republic,0,0,0,0,0,0,16
+Tajikistan,0,0,0,0,0,0,14
+Saint Kitts and 
+
+Nevis,0,0,0,0,0,0,6
+Côte d'Ivoire,0,0,0,0,0,0,5
+Myanmar,0,0,0,0,0,0,5
+Burundi,0,0,0,0,0,0,4
+Cayman 
+
+Islands,0,0,0,0,0,0,4
+Dutch Antilles,0,0,0,0,0,0,3
+Aruba,0,0,0,0,0,0,3
+Saint Lucia,0,0,0,0,0,0,3
+Liberia,0,0,0,0,0,0,3
+Togo,0,0,0,0,0,0,3
+Congo,0,0,0,0,0,0,2
+Eritrea,0,0,0,0,0,0,2
+Gabon,0,0,0,0,0,0,2
+Lesotho,0,0,0,0,0,0,2
+Seychelles,0,0,0,0,0,0,2
+Sierra Leone,0,0,0,0,0,0,2
+South Sudan,0,0,0,0,0,0,2
+Virgin 
+
+Islands British,0,0,0,0,0,0,2
+Samoa,0,0,0,0,0,0,2
+Andorra,0,0,0,0,0,0,1
+Bermuda,0,0,0,0,0,0,1
+Central African 
+
+Republic,0,0,0,0,0,0,1
+Djibouti,0,0,0,0,0,0,1
+Greenland,0,0,0,0,0,0,1
+Gambia,0,0,0,0,0,0,1
+Guinea,0,0,0,0,0,0,1
+Equatorial Guinea,0,0,0,0,0,0,1
+Isle of Man,0,0,0,0,0,0,1
+North Korea,0,0,0,0,0,0,1
+Monaco,0,0,0,0,0,0,1
+Marshall Islands,0,0,0,0,0,0,1
+Mali,0,0,0,0,0,0,1
+Maldives,0,0,0,0,0,0,1
+Niger,0,0,0,0,0,0,1
+Niue,0,0,0,0,0,0,1
+Palau,0,0,0,0,0,0,1
+Timor-Leste,0,0,0,0,0,0,1
+Tonga,0,0,0,0,0,0,1
+Total,100,200,500,1000,5000,10002,22123

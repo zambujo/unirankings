@@ -21,10 +21,10 @@
 91.5;McGill University;Canada
 91.1;National University of Singapore (NUS);Singapore
 90.3;University of Michigan;United States
-90.2;Ecole normale supérieure, Paris;France
+90.2;Ecole normale supérieure Paris;France
 89.7;The Australian National University The Australian National University;Australia
 89.7;Duke University;United States
-89.5;University of California, Berkeley (UCB);United States
+89.5;University of California Berkeley (UCB);United States
 88.8;The University of Hong Kong The University of Hong Kong;Hong Kong
 88.5;University of Bristol University of Bristol;United Kingdom
 86.9;The University of Manchester;United Kingdom
@@ -56,10 +56,10 @@
 79.6;University of Glasgow University of Glasgow;United Kingdom
 78.8;Peking University;China
 78.8;UZH;Switzerland
-78.6;University of California, San Diego (UCSD);United States
+78.6;University of California San Diego (UCSD);United States
 78.3;Lund University;Sweden
 78.1;The University of Warwick The University of Warwick;United Kingdom
-77.5;University of North Carolina, Chapel Hill;United States
+77.5;University of North Carolina Chapel Hill;United States
 76.9;University of Illinois at Urbana-Champaign;United States
 76.7;University of Birmingham University of Birmingham;United Kingdom
 76.5;University of Washington;United States
@@ -92,7 +92,7 @@
 72.0;The University of Auckland;New Zealand
 72.0;Durham University Durham University;United Kingdom
 71.9;University of Southampton;United Kingdom
-71.7;University of California, Davis;United States
+71.7;University of California Davis;United States
 71.6;Aarhus University;Denmark
 71.3;University of Leeds;United Kingdom
 71.2;Queen Mary University of London (QMUL) Queen Mary University of London (QMUL);United Kingdom
@@ -107,7 +107,7 @@
 68.3;Georgia Institute of Technology;United States
 68.2;City University of Hong Kong;Hong Kong
 68.1;Ohio State University;United States
-67.9;KTH, Royal Institute of Technology;Sweden
+67.9;KTH Royal Institute of Technology;Sweden
 67.7;University of Pittsburgh;United States
 67.5;Pennsylvania State University;United States
 67.4;McMaster University;Canada
@@ -119,7 +119,7 @@
 65.7;University of Minnesota;United States
 65.1;University of York University of York;United Kingdom
 64.8;Universität Freiburg;Germany
-64.7;University of Maryland, College Park;United States
+64.7;University of Maryland College Park;United States
 64.5;Cardiff University Cardiff University;United Kingdom
 64.5;University of Liverpool;United Kingdom
 64.5;Technical University of Denmark;Denmark
@@ -150,7 +150,7 @@
 61.1;Freie Universität Berlin;Germany
 61.0;Universiti Malaya (UM);Malaysia
 61.0;Wageningen University;Netherlands
-60.8;UC Irvine - Extension, English and Certificates for Internationals UC Irvine - Extension, English and Certificates for Internationals;United States
+60.8;UC Irvine - Extension English and Certificates for Internationals UC Irvine - Extension English and Certificates for Internationals;United States
 60.7;Université Catholique de Louvain (UCL);Belgium
 60.3;University of Bergen;Norway
 60.0;University of Vienna;Austria
@@ -184,7 +184,7 @@
 55.8;University of Colorado Boulder;United States
 55.8;Vanderbilt University;United States
 55.7;University of Illinois at Chicago;United States
-55.5;Queen's University, Ontario;Canada
+55.5;Queen's University Ontario;Canada
 55.5;Aalto University;Finland
 55.4;Case Western Reserve University;United States
 55.3;Technion - Israel Institute of Technology;Israel
@@ -255,15 +255,15 @@
 45.8;University of Navarra;Spain
 45.6;National Yang Ming University;Taiwan
 45.5;Mahidol University;Thailand
-45.5;The University of Newcastle, Australia (UoN) The University of Newcastle, Australia (UoN);Australia
+45.5;The University of Newcastle Australia (UoN) The University of Newcastle Australia (UoN);Australia
 45.4;Universiti Kebangsaan Malaysia (UKM);Malaysia
 45.4;University of Oulu;Finland
-45.2;University of California, Riverside;United States
+45.2;University of California Riverside;United States
 45.1;University of Padua;Italy
 45.1;Universidad de Los Andes Colombia;Colombia
-45.0;University of Technology, Sydney University of Technology, Sydney;Australia
+45.0;University of Technology Sydney University of Technology Sydney;Australia
 44.9;Loughborough University Loughborough University;United Kingdom
-44.9;University of California, Santa Cruz;United States
+44.9;University of California Santa Cruz;United States
 44.8;Umeå universitet;Sweden
 44.8;University of Eastern Finland;Finland
 44.7;Technische Universität Darmstadt;Germany
@@ -276,8 +276,8 @@
 44.2;Kyung Hee University;South Korea
 44.2;Royal Holloway University of London;United Kingdom
 44.0;Université Paris Descartes;France
-43.7;Rutgers, The State University of New Jersey, New Brunswick;United States
-43.6;National University of Ireland, Galway;Ireland
+43.7;Rutgers The State University of New Jersey New Brunswick;United States
+43.6;National University of Ireland Galway;Ireland
 43.6;Yeshiva University;United States
 43.5;University of Massachusetts Amherst;United States
 43.4;Linköping University;Sweden
@@ -328,7 +328,7 @@
 39.9;Nankai University;China
 39.9;Novosibirsk State University;Russia
 39.9;Universität Mannheim;Germany
-39.8;SOAS, University of London SOAS, University of London;United Kingdom
+39.8;SOAS University of London SOAS University of London;United Kingdom
 39.8;Curtin University Curtin University;Australia
 39.7;University of South Australia University of South Australia;Australia
 39.6;King Abdul Aziz University (KAU);Saudi Arabia
@@ -417,7 +417,7 @@ NA;Czech Technical University In Prague;Czech Republic
 NA;Lincoln University Lincoln University;New Zealand
 NA;MIPT;Russia
 NA;Universität Düsseldorf;Germany
-NA;Université Montpellier 2, Sciences et Techniques du Languedoc;France
+NA;Université Montpellier 2 Sciences et Techniques du Languedoc;France
 NA;University of Delhi;India
 NA;York University;Canada
 NA;Universidade Estadual Paulista (UNESP);Brazil
@@ -431,13 +431,13 @@ NA;University of St.Gallen (HSG) University of St.Gallen (HSG);Switzerland
 NA;National Sun Yat-sen University;Taiwan
 NA;Pusan National University;South Korea
 NA;American University;United States
-NA;Birkbeck College, University of London Birkbeck College, University of London;United Kingdom
+NA;Birkbeck College University of London Birkbeck College University of London;United Kingdom
 NA;Chang Gung University;Taiwan
 NA;Illinois Institute of Technology;United States
 NA;The University of Georgia;United States
 NA;University of Delaware;United States
 NA;University of Guelph;Canada
-NA;The University of Tennessee, Knoxville;United States
+NA;The University of Tennessee Knoxville;United States
 NA;Université Paul Sabatier Toulouse III;France
 NA;Xiamen University;China
 NA;Abo Akademi University;Finland
@@ -488,7 +488,7 @@ NA;National Research Nuclear University MEPhI (Moscow Engineering Physics Instit
 NA;National University of Sciences And Technology (NUST) Islamabad;Pakistan
 NA;St. Petersburg State Polytechnical University;Russia
 NA;Universität Bayreuth;Germany
-NA;Université Lille 1, Sciences et Technologie;France
+NA;Université Lille 1 Sciences et Technologie;France
 NA;University of Saskatchewan;Canada
 NA;University of South Florida;United States
 NA;University of Vermont;United States
@@ -515,14 +515,14 @@ NA;AUT University;New Zealand
 NA;Beijing Institute of Technology;China
 NA;Carleton University;Canada
 NA;East China Normal University;China
-NA;Goldsmiths, University of London;United Kingdom
+NA;Goldsmiths University of London;United Kingdom
 NA;International Islamic University Malaysia (IIUM);Malaysia
 NA;Istanbul Technical University;Turkey
 NA;Jilin University;China
 NA;Kanazawa University;Japan
 NA;Kansas State University;United States
 NA;Keele University;United Kingdom
-NA;Kingston University, London Kingston University, London;United Kingdom
+NA;Kingston University London Kingston University London;United Kingdom
 NA;LSU;United States
 NA;National Chung Hsing University;Taiwan
 NA;National Research University - Higher School of Economics (HSE) National Research University - Higher School of Economics (HSE);Russia
@@ -622,7 +622,7 @@ NA;New School University;United States
 NA;Osaka City University;Japan
 NA;Pontificia Universidad Católica de Valparaíso;Chile
 NA;Rhodes University;South Africa
-NA;Rutgers - The State University of New Jersey, Newark;United States
+NA;Rutgers - The State University of New Jersey Newark;United States
 NA;Sharif University of Technology;Iran
 NA;Southern Federal University;Russia
 NA;Sultan Qaboos University;Oman
@@ -637,7 +637,7 @@ NA;Universidad de Palermo (UP);Argentina
 NA;Universidad Peruana Cayetano Heredia;Peru
 NA;Universidad Simón Bolívar Venezuela;Venezuela
 NA;Universidad Torcuato Di Tella;Argentina
-NA;Universidade Catolica Portuguesa, Lisboa;Portugal
+NA;Universidade Catolica Portuguesa Lisboa;Portugal
 NA;Universidade Federal da Bahia;Brazil
 NA;University of Modena;Italy
 NA;University of Trieste;Italy
@@ -816,7 +816,7 @@ NA;Université Paris Ouest Nanterre La Défense;France
 NA;Université Paul-Valéry Montpellier 3;France
 NA;Université Pierre Mendès France - Grenoble 2;France
 NA;Université Stendhal Grenoble 3;France
-NA;Université Toulouse 1, Capitole;France
+NA;Université Toulouse 1 Capitole;France
 NA;University Toulouse – Jean Jaurès;France
 NA;University of Arkansas;United States
 NA;University of Baghdad;Iraq
@@ -861,7 +861,7 @@ NA;Voronezh State University;Russia
 NA;Vytautas Magnus University;Lithuania
 NA;Universitatea de Vest din Timisoara;Romania
 NA;Yamaguchi University;Japan
-NA;University of California, San Francisco;United States
+NA;University of California San Francisco;United States
 NA;Karolinska Institute;Sweden
 NA;Indian Institute of Science;India
 NA;Jawaharlal Nehru University;India

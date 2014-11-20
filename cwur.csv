@@ -5,7 +5,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 4,University of Cambridge,United Kingdom,1,2,10,5,10,9,12,13,48,97.64
 5,University of Oxford,United Kingdom,2,7,12,10,11,12,11,12,16,97.51
 6,Columbia University,USA,4,13,8,9,14,13,9,13,4,97.41
-7,University of California, Berkeley,USA,5,4,22,6,7,4,3,7,28,92.84
+7,University of California - Berkeley,USA,5,4,22,6,7,4,3,7,28,92.84
 8,University of Chicago,USA,6,10,14,8,17,19,10,18,149,92.03
 9,Princeton University,USA,7,5,16,3,70,25,19,41,204,88.56
 10,Yale University,USA,8,9,25,11,18,7,32,19,45,88.11
@@ -13,25 +13,25 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 12,California Institute of Technology,USA,10,6,303,7,48,6,16,24,9,85.50
 13,University of Tokyo,Japan,1,17,3,33,12,16,28,26,14,80.64
 14,University of Pennsylvania,USA,11,21,4,26,8,17,13,10,28,79.30
-15,University of California, Los Angeles,USA,12,27,27,12,6,14,7,6,10,78.35
+15,University of California - Los Angeles,USA,12,27,27,12,6,14,7,6,10,78.35
 16,Kyoto University,Japan,2,30,23,15,27,41,61,51,18,73.21
 17,New York University,USA,13,33,21,17,49,29,32,31,48,72.29
 18,Swiss Federal Institute of Technology in Zurich,Switzerland,1,16,105,13,42,28,45,86,84,72.18
 19,Johns Hopkins University,USA,14,24,75,18,4,10,6,3,3,71.17
-20,University of California, San Diego,USA,15,32,478+,20,16,5,19,16,13,68.36
-21,University of Michigan, Ann Arbor,USA,16,29,19,131,3,20,5,10,19,68.27
+20,University of California - San Diego,USA,15,32,478+,20,16,5,19,16,13,68.36
+21,University of Michigan - Ann Arbor,USA,16,29,19,131,3,20,5,10,19,68.27
 22,Hebrew University of Jerusalem,Israel,1,15,255,16,114,94,493,151,40,66.76
 23,Northwestern University,USA,17,151,13,105,28,32,25,27,61,66.18
 24,Seoul National University,South Korea,1,355+,9,210+,38,165,87,107,5,66.06
 25,University of Wisconsin–Madison,USA,18,31,28,34,21,24,23,28,28,65.77
 26,Duke University,USA,19,65,30,49,22,23,13,15,42,63.56
-27,University of California, San Francisco,USA,20,355+,478+,23,24,8,17,9,57,63.36
+27,University of California - San Francisco,USA,20,355+,478+,23,24,8,17,9,57,63.36
 28,University of Illinois at Urbana–Champaign,USA,21,34,80,21,36,45,38,68,64,62.89
 29,University of Texas at Austin,USA,22,92,39,24,51,54,26,74,45,62.57
 30,University College London,United Kingdom,3,20,406,52,13,22,18,21,121,61.05
 31,University of Toronto,Canada,1,71,45,35,2,18,13,8,149,60.87
 32,University of Washington - Seattle,USA,23,89,107,46,9,11,8,5,54,60.28
-33,Rutgers, The State University of New Jersey,USA,24,91,33,31,52,47,38,51,54,60.00
+33,Rutgers - The State University of New Jersey,USA,24,91,33,31,52,47,38,51,54,60.00
 34,Keio University,Japan,3,271,5,210+,299,243,310,266,159,59.84
 35,École normale supérieure - Paris,France,1,8,478+,59,362,156,493,311,737+,59.72
 36,École Polytechnique,France,2,150,6,208,323,282,250,295,181,59.54
@@ -47,7 +47,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 46,Pennsylvania State University,USA,29,226,42,65,33,36,26,33,100,57.19
 47,Ohio State University,USA,30,93,65,81,30,52,30,37,38,57.01
 48,Lomonosov Moscow State University,Russia,1,14,210,50,264,247,310,361,737+,56.42
-49,University of Minnesota, Twin Cities,USA,31,61,159,83,19,38,29,29,68,56.13
+49,University of Minnesota - Twin Cities,USA,31,61,159,83,19,38,29,29,68,56.13
 50,University of Paris-Sud,France,3,26,410,25,69,89,114,102,338,56.06
 51,University of Southern California,USA,32,148,74,43,59,64,61,54,33,55.70
 52,Purdue University,USA,33,81,52,54,72,87,73,121,20,55.67
@@ -55,10 +55,10 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 54,Carnegie Mellon University,USA,35,25,219,27,207,234,52,144,170,55.30
 55,Peking University,China,1,355+,35,210+,65,155,250,155,7,55.30
 56,University of Edinburgh,United Kingdom,5,42,131,36,54,42,55,46,307,55.20
-57,University of California, Davis,USA,36,47,192,90,29,31,38,50,68,55.18
+57,University of California - Davis,USA,36,47,192,90,29,31,38,50,68,55.18
 58,Washington University in St. Louis,USA,37,96,145,112,39,21,34,19,181,54.93
 59,University of Florida,USA,38,212,299,95,34,70,52,63,8,54.76
-60,University of California, Santa Barbara,USA,39,124,252,28,105,53,48,56,68,54.76
+60,University of California - Santa Barbara,USA,39,124,252,28,105,53,48,56,68,54.76
 61,University of British Columbia,Canada,3,85,298,92,26,34,36,41,78,54.75
 62,University of Utah,USA,40,88,91,45,99,62,114,94,22,54.67
 63,University of Colorado Boulder,USA,41,75,56,41,97,35,75,77,128,54.50
@@ -74,11 +74,11 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 73,Karolinska Institute,Sweden,1,126,478+,37,55,61,38,36,737+,53.64
 74,National University of Singapore,Singapore,1,355+,99,210+,37,136,114,102,23,53.52
 75,University of Geneva,Switzerland,2,48,151,30,121,75,99,79,194,53.50
-76,University of Maryland, College Park,USA,47,63,198,51,57,49,38,73,338,53.46
+76,University of Maryland - College Park,USA,47,63,198,51,57,49,38,73,338,53.46
 77,University of Rochester,USA,48,60,50,116,112,104,69,70,76,53.06
 78,Emory University,USA,49,355+,97,210+,66,65,73,37,45,53.01
 79,University of Copenhagen,Denmark,1,111,143,63,44,44,61,34,481,52.94
-80,University of California, Irvine,USA,50,217,478+,42,76,48,48,51,138,52.93
+80,University of California - Irvine,USA,50,217,478+,42,76,48,48,51,138,52.93
 81,Brown University,USA,51,56,46,67,123,66,55,97,170,52.92
 82,Ludwig Maximilian University of Munich,Germany,1,43,156,91,64,56,69,48,181,52.75
 83,Georgia Institute of Technology,USA,52,123,77,210+,104,154,79,101,24,52.74
@@ -161,7 +161,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 160,Australian National University,Australia,5,186,377,47,137,95,187,196,426,48.96
 161,Goethe University Frankfurt,Germany,9,105,291,62,175,151,200,124,280,48.93
 162,University of Houston,USA,70,355+,40,210+,315,291,493,355,89,48.91
-163,University of California, Santa Cruz,USA,71,160,478+,99,239,50,114,107,227,48.89
+163,University of California - Santa Cruz,USA,71,160,478+,99,239,50,114,107,227,48.89
 164,University of Alabama at Birmingham,USA,72,355+,478+,210+,139,114,134,74,194,48.88
 165,Icahn School of Medicine at Mount Sinai,USA,73,355+,478+,210+,169,80,176,64,159,48.85
 166,University of Calgary,Canada,8,355+,89,210+,147,171,114,132,737+,48.84
@@ -181,7 +181,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 180,George Washington University,USA,79,176,53,210+,312,229,187,203,307,48.48
 181,University of Milan,Italy,2,162,467,178,109,183,200,114,481,48.48
 182,Iowa State University,USA,80,273,190,109,142,173,75,176,338,48.47
-183,University of Maryland, Baltimore,USA,81,355+,478+,210+,125,102,134,114,280,48.40
+183,University of Maryland - Baltimore,USA,81,355+,478+,210+,125,102,134,114,280,48.40
 184,University of Padua,Italy,3,278,478+,210+,101,99,176,126,737+,48.40
 185,University of New Mexico,USA,82,355+,478+,210+,227,168,61,137,149,48.36
 186,Pohang University of Science and Technology,South Korea,6,355+,478+,210+,279,346,220,295,25,48.35
@@ -198,7 +198,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 197,Technical University of Denmark,Denmark,3,339,478+,195,240,257,200,238,48,47.98
 198,Complutense University of Madrid,Spain,2,86,55,206,213,309,406,339,204,47.97
 199,University of Cologne,Germany,12,355+,109,194,215,150,187,161,426,47.97
-200,Trinity College, Dublin,Ireland,1,319,68,193,301,249,150,201,227,47.96
+200,Trinity College - Dublin,Ireland,1,319,68,193,301,249,150,201,227,47.96
 201,University of Bern,Switzerland,7,166,478+,205,167,119,99,155,426,47.93
 202,Chinese University of Hong Kong,Hong Kong,2,90,478+,88,171,386,159,203,204,47.83
 203,University of Kansas,USA,86,216,83,210+,209,161,159,234,194,47.82
@@ -220,12 +220,12 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 219,University of Bologna,Italy,4,342,319,210+,130,283,187,169,552,47.59
 220,University of Manitoba,Canada,10,149,84,150,257,297,220,249,227,47.56
 221,Joseph Fourier University,France,8,181,478+,210+,136,101,220,207,159,47.54
-222,University of California, Riverside,USA,91,228,478+,210+,199,98,134,169,259,47.53
+222,University of California - Riverside,USA,91,228,478+,210+,199,98,134,169,259,47.53
 223,Julius-Maximilian's University of Würzburg,Germany,16,100,407,164,216,178,200,173,481,47.50
 224,Aix-Marseille University,France,9,220,472,210+,129,83,176,215,227,47.48
 225,University of Western Australia,Australia,7,145,397,140,165,214,283,176,373,47.47
 226,Laval University,Canada,11,285,296,210+,212,270,220,200,109,47.47
-227,University of Tennessee, Knoxville,USA,92,300,117,210+,192,177,134,224,481,47.45
+227,University of Tennessee - Knoxville,USA,92,300,117,210+,192,177,134,224,481,47.45
 228,North Carolina State University,USA,93,245,194,210+,151,202,159,238,181,47.43
 229,Newcastle University,United Kingdom,19,355+,250,210+,200,149,200,164,481,47.42
 230,Claude Bernard University Lyon 1,France,10,355+,478+,210+,133,130,220,196,204,47.42
@@ -266,7 +266,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 265,Oregon State University,USA,109,175,268,210+,247,145,176,238,338,46.82
 266,University of Florence,Italy,6,316,304,93,211,256,200,261,637,46.80
 267,University of Cape Town,South Africa,2,97,169,142,333,244,220,274,552,46.78
-268,University at Buffalo, The State University of New York,USA,110,355+,418,210+,203,285,200,230,204,46.78
+268,University at Buffalo - The State University of New York,USA,110,355+,418,210+,203,285,200,230,204,46.78
 269,University College Dublin,Ireland,2,227,182,210+,276,280,150,251,307,46.77
 270,University of Science and Technology of China,China,8,355+,238,210+,144,275,363,266,481,46.75
 271,Virginia Polytechnic Institute and State University,USA,111,270,185,210+,196,267,200,281,227,46.72
@@ -313,7 +313,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 312,Medical University of South Carolina,USA,118,355+,478+,210+,322,357,310,224,552,46.25
 313,Charles University in Prague,Czech Republic,1,337,478+,210+,243,231,220,256,637,46.23
 314,Kyungpook National University,South Korea,8,355+,446,210+,358,661,283,420,68,46.23
-315,University of Science, Malaysia,Malaysia,1,355+,478+,210+,700,877,609,819,42,46.23
+315,University of Science - Malaysia,Malaysia,1,355+,478+,210+,700,877,609,819,42,46.23
 316,University of Liège,Belgium,6,135,478+,136,313,215,310,295,227,46.21
 317,University of Hull,United Kingdom,27,287,253,158,612,554,493,256,552,46.21
 318,Northeastern University,USA,119,295,171,210+,383,307,250,375,115,46.20
@@ -343,7 +343,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 342,Queen's University Belfast,United Kingdom,31,169,399,210+,308,284,283,295,737+,45.95
 343,University of Marburg,Germany,31,290,478+,209,328,237,283,293,259,45.92
 344,University of Pavia,Italy,12,276,385,206,329,359,283,288,637,45.92
-345,St George's, University of London,United Kingdom,32,355+,478+,210+,525,459,310,256,552,45.91
+345,St George's - University of London,United Kingdom,32,355+,478+,210+,525,459,310,256,552,45.91
 346,University of Oregon,USA,126,334,478+,210+,370,205,200,281,637,45.89
 347,University of Navarra,Spain,6,355+,72,210+,582,734,800+,523,426,45.88
 348,San Diego State University,USA,127,240,187,210+,480,290,200,341,481,45.88
@@ -367,7 +367,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 366,University of Guelph,Canada,15,355+,478+,210+,319,289,125,349,373,45.74
 367,University of Trieste,Italy,14,355+,478+,210+,378,295,283,295,426,45.73
 368,University of Verona,Italy,15,355+,478+,210+,509,489,220,290,737+,45.71
-369,University at Albany, SUNY,USA,133,161,478+,161,402,372,187,355,338,45.70
+369,University at Albany - SUNY,USA,133,161,478+,161,402,372,187,355,338,45.70
 370,Tongji University,China,12,152,102,210+,401,547,609,690,204,45.70
 371,Eötvös Loránd University,Hungary,1,87,478+,104,539,403,250,430,637,45.69
 372,University of Alabama - Tuscaloosa,USA,134,312,137,210+,513,499,283,409,338,45.69
@@ -458,7 +458,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 457,Shandong University,China,20,355+,466,210+,245,588,493,437,481,45.27
 458,Technical University of Dortmund,Germany,35,355+,478+,210+,454,539,406,430,170,45.26
 459,University of KwaZulu-Natal,South Africa,4,355+,142,210+,584,436,310,554,737+,45.26
-460,University of Nevada, Reno,USA,148,355+,347,210+,516,325,250,380,637,45.26
+460,University of Nevada - Reno,USA,148,355+,347,210+,516,325,250,380,637,45.26
 461,Yokohama City University,Japan,25,355+,196,210+,650,362,800+,460,338,45.26
 462,École normale supérieure de Lyon,France,18,355+,478+,126,489,220,493,395,737+,45.25
 463,University College Cork,Ireland,3,355+,359,210+,423,464,406,420,227,45.25
@@ -503,7 +503,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 502,Tokyo Metropolitan University,Japan,28,355+,322,210+,550,450,310,420,637,45.11
 503,Bar-Ilan University,Israel,6,266,408,210+,415,392,609,482,259,45.11
 504,Mississippi State University,USA,161,141,157,210+,580,617,609,739,481,45.11
-505,University of Maryland, Baltimore County,USA,162,355+,478+,210+,554,377,363,402,373,45.10
+505,University of Maryland - Baltimore County,USA,162,355+,478+,210+,554,377,363,402,373,45.10
 506,University of Wollongong,Australia,10,355+,274,210+,445,460,609,488,338,45.10
 507,Flinders University,Australia,11,82,478+,210+,551,573,609,605,637,45.10
 508,Martin Luther University of Halle-Wittenberg,Germany,41,345,478+,202,385,340,800+,409,737+,45.10
@@ -539,7 +539,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 538,University of Dayton,USA,169,335,140,210+,991,796,609,783,552,44.99
 539,Nihon University,Japan,30,307,474,210+,573,611,800+,642,149,44.98
 540,Montana State University - Bozeman,USA,170,355+,344,210+,557,354,363,472,637,44.98
-541,Royal Holloway, University of London,United Kingdom,42,355+,478+,210+,560,317,406,442,373,44.98
+541,Royal Holloway - University of London,United Kingdom,42,355+,478+,210+,560,317,406,442,373,44.98
 542,Tokyo Women's Medical University,Japan,31,355+,478+,210+,763,609,493,460,259,44.98
 543,Panjab University,India,5,332,212,210+,708,722,363,569,737+,44.97
 544,Tampere University of Technology,Finland,7,355+,136,210+,819,670,800+,819,737+,44.97
@@ -598,7 +598,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 597,University of Trento,Italy,33,355+,478+,210+,490,569,609,504,737+,44.82
 598,Semmelweis University,Hungary,2,355+,478+,210+,668,517,493,496,552,44.82
 599,University of Science and Technology Beijing,China,29,355+,166,210+,592,928,493,897,373,44.82
-600,National University of Ireland, Galway,Ireland,4,355+,478+,210+,593,597,609,531,307,44.82
+600,National University of Ireland - Galway,Ireland,4,355+,478+,210+,593,597,609,531,307,44.82
 601,Dankook University,South Korea,21,355+,478+,210+,896,934,609,897,121,44.82
 602,Istanbul University,Turkey,2,255,337,210+,681,580,609,554,737+,44.81
 603,Tokyo University of Agriculture and Technology,Japan,40,355+,478+,210+,574,707,609,585,227,44.81
@@ -622,7 +622,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 621,University of Alaska Fairbanks,USA,180,355+,478+,210+,608,339,609,523,737+,44.77
 622,University of Poitiers,France,29,236,478+,143,615,480,609,675,481,44.77
 623,Albany Medical College,USA,181,142,478+,210+,993,753,609,605,737+,44.76
-624,Birkbeck, University of London,United Kingdom,46,281,478+,180,718,343,493,569,737+,44.76
+624,Birkbeck - University of London,United Kingdom,46,281,478+,180,718,343,493,569,737+,44.76
 625,Griffith University,Australia,18,355+,478+,210+,470,543,493,569,373,44.76
 626,Federal University of São Paulo,Brazil,6,355+,478+,210+,515,616,406,536,737+,44.76
 627,Carleton University,Canada,22,355+,478+,210+,496,742,310,554,737+,44.75
@@ -675,16 +675,16 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 674,Loma Linda University,USA,193,355+,478+,210+,820,759,609,554,737+,44.68
 675,Old Dominion University,USA,194,355+,478+,210+,717,622,406,596,426,44.68
 676,University of Insubria,Italy,35,355+,478+,210+,685,600,609,569,737+,44.67
-677,University of Nevada, Las Vegas,USA,195,355+,412,210+,619,457,800+,628,737+,44.67
+677,University of Nevada - Las Vegas,USA,195,355+,412,210+,619,457,800+,628,737+,44.67
 678,Hong Kong Baptist University,Hong Kong,6,355+,478+,210+,591,922,609,585,637,44.67
 679,University of Minho,Portugal,6,355+,478+,210+,590,641,363,642,338,44.67
 680,University of Messina,Italy,36,355+,478+,210+,577,763,800+,585,737+,44.67
 681,University of Texas at Arlington,USA,196,355+,478+,210+,494,514,493,605,637,44.67
-682,University François Rabelais, Tours,France,32,188,478+,210+,684,503,609,663,481,44.67
-683,UNESP, São Paulo State University,Brazil,7,355+,478+,210+,352,655,493,690,552,44.67
+682,University François Rabelais - Tours,France,32,188,478+,210+,684,503,609,663,481,44.67
+683,UNESP - São Paulo State University,Brazil,7,355+,478+,210+,352,655,493,690,552,44.67
 684,Toho University,Japan,45,355+,478+,154,800,788,800+,690,552,44.67
 685,Beijing University of Chemical Technology,China,33,355+,405,210+,619,974,800+,749,259,44.67
-686,Rutgers, The State University of New Jersey - Newark,USA,197,355+,478+,210+,855,498,609,569,737+,44.66
+686,Rutgers - The State University of New Jersey - Newark,USA,197,355+,478+,210+,855,498,609,569,737+,44.66
 687,Johannes Kepler University of Linz,Austria,8,355+,373,210+,738,645,493,663,481,44.66
 688,Warsaw University of Technology,Poland,4,333,478+,210+,695,748,310,605,737+,44.66
 689,University of Paris 13,France,33,355+,478+,210+,672,783,609,585,737+,44.66
@@ -700,7 +700,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 699,Swansea University,United Kingdom,52,355+,355,210+,533,544,609,703,552,44.65
 700,China Agricultural University,China,34,355+,478+,210+,432,381,609,663,552,44.64
 701,Marche Polytechnic University,Italy,38,355+,478+,210+,666,639,800+,596,737+,44.64
-702,University of Maine, Orono,USA,199,329,478+,210+,756,422,406,642,373,44.64
+702,University of Maine - Orono,USA,199,329,478+,210+,756,422,406,642,373,44.64
 703,Heriot-Watt University,United Kingdom,53,355+,381,210+,602,601,609,690,552,44.64
 704,Marquette University,USA,200,355+,216,210+,909,791,800+,869,737+,44.64
 705,Loughborough University,United Kingdom,54,355+,478+,210+,497,778,609,628,637,44.63
@@ -709,7 +709,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 708,University of Girona,Spain,23,355+,478+,210+,682,878,609,605,637,44.63
 709,Hasselt University,Belgium,9,355+,309,210+,816,892,609,703,737+,44.63
 710,Nanjing University of Science and Technology,China,35,355+,243,210+,852,938,406,843,637,44.63
-711,University of Natural Resources and Life Sciences, Vienna,Austria,9,355+,478+,210+,746,629,800+,605,552,44.63
+711,University of Natural Resources and Life Sciences - Vienna,Austria,9,355+,478+,210+,746,629,800+,605,552,44.63
 712,University of Szeged,Hungary,4,355+,478+,198,651,765,800+,618,552,44.63
 713,Soochow University (Suzhou),China,36,355+,478+,210+,466,799,800+,642,737+,44.63
 714,University of the Balearic Islands,Spain,24,355+,478+,210+,634,529,406,628,552,44.63
@@ -726,7 +726,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 725,Graz University of Technology,Austria,10,355+,478+,210+,686,683,493,628,552,44.61
 726,Kitasato University,Japan,49,355+,478+,210+,706,510,800+,618,737+,44.61
 727,University of North Carolina at Charlotte,USA,205,355+,264,210+,749,671,493,832,637,44.61
-728,G. d'Annunzio University, Chieti-Pescara,Italy,39,355+,478+,210+,733,574,609,618,737+,44.61
+728,G. d'Annunzio University - Chieti-Pescara,Italy,39,355+,478+,210+,733,574,609,618,737+,44.61
 729,University of Cantabria,Spain,25,355+,478+,210+,596,637,406,663,481,44.61
 730,Miguel Hernández University of Elche,Spain,26,355+,478+,210+,769,584,800+,690,307,44.61
 731,Donghua University,China,39,355+,478+,210+,833,952,250,690,481,44.61
@@ -748,7 +748,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 747,University of North Texas,USA,209,355+,478+,210+,683,658,609,675,426,44.59
 748,University of Mississippi Medical Center,USA,210,355+,478+,210+,791,571,493,642,737+,44.58
 749,University of Tehran,Iran,1,171,478+,210+,519,974,800+,769,737+,44.58
-750,Paul Valéry University, Montpellier III,France,35,355+,478+,210+,829,486,493,642,737+,44.58
+750,Paul Valéry University - Montpellier III,France,35,355+,478+,210+,829,486,493,642,737+,44.58
 751,Wuhan University of Technology,China,40,355+,478+,210+,794,920,493,642,737+,44.58
 752,University of Hyogo,Japan,54,355+,478+,210+,765,463,493,663,552,44.58
 753,The Catholic University of America,USA,211,355+,314,210+,949,560,406,756,552,44.58
@@ -776,7 +776,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 775,University of Electro-Communications,Japan,60,140,478+,210+,846,866,609,874,373,44.56
 776,Yeungnam University,South Korea,26,355+,454,210+,768,966,800+,874,227,44.55
 777,Jawaharlal Nehru Centre for Advanced Scientific Research,India,12,355+,478+,210+,865,642,493,703,426,44.55
-778,Putra University, Malaysia,Malaysia,3,355+,478+,210+,932,897,800+,979,159,44.55
+778,Putra University - Malaysia,Malaysia,3,355+,478+,210+,932,897,800+,979,159,44.55
 779,Institut national des sciences Appliquées de Lyon,France,37,355+,478+,210+,517,681,609,724,481,44.55
 780,University of Perpignan Via Domitia,France,38,144,478+,210+,957,563,609,832,737+,44.55
 781,University of Miyazaki,Japan,61,259,478+,210+,924,690,609,800,280,44.55
@@ -802,13 +802,13 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 801,Wilfrid Laurier University,Canada,27,355+,240,210+,987,920,800+,948,737+,44.53
 802,Cairo University,Egypt,1,310,473,176,701,729,609,843,737+,44.52
 803,University of Murcia,Spain,30,355+,478+,210+,547,745,493,756,426,44.52
-804,Palacký University, Olomouc,Czech Republic,4,355+,478+,210+,771,559,609,724,481,44.52
+804,Palacký University - Olomouc,Czech Republic,4,355+,478+,210+,771,559,609,724,481,44.52
 805,Taipei Medical University,Taiwan,13,355+,478+,210+,542,888,493,749,552,44.52
 806,University of Bradford,United Kingdom,60,355+,341,210+,851,755,609,819,481,44.52
 807,King Fahd University of Petroleum and Minerals,Saudi Arabia,3,355+,230,210+,954,938,800+,970,737+,44.52
 808,Ege University,Turkey,6,355+,478+,210+,734,822,406,724,737+,44.52
 809,University of Belgrade,Serbia,1,280,478+,210+,448,702,493,800,737+,44.51
-810,University of Eastern Piedmont Amedeo Avogadro,Italy,43,355+,478+,210+,835,675,609,716,637,44.51
+810,University of Eastern Piedmont - Amedeo Avogadro,Italy,43,355+,478+,210+,835,675,609,716,637,44.51
 811,Budapest University of Technology and Economics,Hungary,5,238,478+,210+,714,758,800+,769,552,44.51
 812,University of Salzburg,Austria,11,355+,367,210+,970,703,800+,783,737+,44.51
 813,University of Massachusetts Lowell,USA,217,355+,478+,210+,926,928,406,874,227,44.51
@@ -818,9 +818,9 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 817,Manchester Metropolitan University,United Kingdom,61,355+,442,210+,919,679,800+,800,481,44.50
 818,Zhengzhou University,China,46,355+,463,210+,725,778,800+,783,637,44.49
 819,Dublin City University,Ireland,6,355+,478+,210+,807,959,493,843,280,44.49
-820,National University of Ireland, Maynooth,Ireland,7,215,478+,210+,1000,716,800+,800,552,44.49
+820,National University of Ireland - Maynooth,Ireland,7,215,478+,210+,1000,716,800+,800,552,44.49
 821,Kangwon National University,South Korea,27,355+,478+,210+,707,850,609,800,338,44.49
-822,Royal Veterinary College, University Of London,United Kingdom,62,205,478+,210+,827,551,493,819,737+,44.49
+822,Royal Veterinary College - University Of London,United Kingdom,62,205,478+,210+,827,551,493,819,737+,44.49
 823,Wright State University - Dayton,USA,218,355+,478+,210+,794,845,800+,739,737+,44.49
 824,Capital Medical University,China,47,355+,478+,210+,618,800,609,756,737+,44.48
 825,University of Brighton,United Kingdom,63,355+,478+,210+,860,841,800+,749,552,44.48
@@ -833,7 +833,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 832,Sejong University,South Korea,29,355+,478+,210+,778,826,800+,800,373,44.47
 833,Sharif University of Technology,Iran,2,355+,478+,210+,588,938,493,783,737+,44.47
 834,Chung-Ang University,South Korea,30,355+,478+,210+,676,775,609,874,280,44.47
-835,Queens College, City University of New York,USA,219,303,368,210+,992,669,800+,869,637,44.46
+835,Queens College - City University of New York,USA,219,303,368,210+,992,669,800+,869,637,44.46
 836,Murdoch University,Australia,22,355+,478+,210+,812,492,800+,756,737+,44.46
 837,Chosun University,South Korea,31,355+,478+,210+,918,974,800+,970,194,44.46
 838,Vilnius University,Lithuania,1,326,478+,210+,790,728,609,769,737+,44.46
@@ -864,9 +864,9 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 863,University of Fukui,Japan,69,355+,478+,210+,879,761,800+,783,737+,44.44
 864,Oakland University,USA,223,355+,478+,210+,883,842,800+,783,737+,44.44
 865,Nanjing University of Technology,China,50,355+,478+,210+,810,987+,800+,948,227,44.44
-866,University of Technology, Sydney,Australia,24,355+,478+,210+,613,696,493,849,426,44.43
+866,University of Technology - Sydney,Australia,24,355+,478+,210+,613,696,493,849,426,44.43
 867,University of North Carolina at Greensboro,USA,224,355+,478+,210+,936,849,609,800,552,44.43
-868,All India Institute of Medical Sciences, New Delhi,India,13,355+,478+,210+,879,853,609,800,637,44.43
+868,All India Institute of Medical Sciences - New Delhi,India,13,355+,478+,210+,879,853,609,800,637,44.43
 869,Kyoto Institute of Technology,Japan,70,355+,478+,210+,927,831,800+,874,307,44.43
 870,Ocean University of China,China,51,355+,478+,210+,703,824,800+,832,481,44.43
 871,Chiang Mai University,Thailand,3,355+,478+,210+,838,706,609,800,737+,44.43
@@ -890,7 +890,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 889,University of Orléans,France,45,355+,478+,210+,743,509,609,843,637,44.41
 890,University of Siegen,Germany,51,355+,478+,210+,877,714,406,843,737+,44.41
 891,Makerere University,Uganda,1,355+,478+,210+,915,708,609,832,737+,44.40
-892,University of Wales, Trinity Saint David,United Kingdom,64,355+,478+,210+,966,859,406,843,737+,44.40
+892,University of Wales - Trinity Saint David,United Kingdom,64,355+,478+,210+,966,859,406,843,737+,44.40
 893,National Taiwan University of Science and Technology,Taiwan,16,355+,478+,210+,610,974,800+,849,737+,44.40
 894,University of Brasília,Brazil,10,355+,450,210+,785,777,800+,897,737+,44.40
 895,University of Western Brittany,France,46,355+,478+,210+,834,644,800+,849,481,44.40
@@ -921,7 +921,7 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 920,Chemnitz University of Technology,Germany,54,355+,330,210+,988,952,800+,985,373,44.37
 921,Southwest University,China,59,264,478+,210+,760,875,609,909,737+,44.37
 922,Wrocław University of Technology,Poland,8,355+,443,210+,771,900,800+,937,737+,44.37
-923,University of California, Merced,USA,228,355+,478+,210+,957,576,800+,923,338,44.37
+923,University of California - Merced,USA,228,355+,478+,210+,957,576,800+,923,338,44.37
 924,United Arab Emirates University,United Arab Emirates,1,355+,478+,210+,983,821,800+,897,426,44.36
 925,Federal University of São Carlos,Brazil,13,355+,478+,210+,688,934,800+,889,737+,44.36
 926,University of Thessaly,Greece,7,355+,478+,210+,867,974,609,874,737+,44.36
@@ -999,3 +999,4 @@ World Rank,Institution,Country/Region,National Rank,Quality of Education,Alumni 
 998,Shaanxi Normal University,China,82,355+,478+,210+,956,965,800+,994,737+,44.23
 999,National University of Defense Technology,China,83,355+,478+,210+,860,973,800+,999,637,44.21
 1000,Yanbian University,China,84,355+,478+,210+,890,790,800+,1000,737+,44.18
+

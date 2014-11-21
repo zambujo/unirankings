@@ -14,4 +14,4 @@ Studying the distribution of university rankings in the world.
 
 --------------------------------------
 
-![QS rankings QQ plot](qs-qqplot.svg)
+[QS rankings QQ plot](qs-qqplot.svg)

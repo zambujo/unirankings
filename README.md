@@ -12,3 +12,6 @@ Studying the distribution of university rankings in the world.
   - [cwts.csv](https://github.com/zambujo/unirankings/blob/master/cwts.csv)  
   Source: [CWTS Leiden rankings](http://www.leidenranking.com/ranking/2014)
 
+--------------------------------------
+
+![QS rankings QQ plot](qs-qqplot.svg)

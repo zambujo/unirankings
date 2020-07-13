@@ -1,0 +1,50 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# `unirankings`: Comparing University Rankings of Different Countries
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+Comparing the cumulative distribution functions of university rankings among 4 countries: Switzerland, Germany, France, and the US.
+
+## Introduction
+
+## Data
+
+* [qsrankings14.csv](https://github.com/zambujo/unirankings/blob/master/qsrankings14.csv)  
+  Source: [QS World University Rankings  2014/15](http://www.topuniversities.com/university-rankings/world-university-rankings/2014)
+
+* [cwur.csv](https://github.com/zambujo/unirankings/blob/master/cwur.csv)  
+  Source: [Center for World University Rankings](http://cwur.org/2014/)
+
+* [cwts.csv](https://github.com/zambujo/unirankings/blob/master/cwts.csv)  
+  Source: [CWTS Leiden rankings](http://www.leidenranking.com/ranking/2014)
+
+## Usage
+
+To run the R scripts in the R folder, you need the following libraries:
+
+```{r}
+library(tidyverse)
+library(here)
+```
+
+
+## Result
+
+[QS rankings QQ plot](qs-qqplot.svg)
+
+## License
+
+`unirankings` is Copyright 2020 Joao Martins. It is free software and may be redistributed under the terms specified in the MIT [LICENSE](./LICENCE.md) file.

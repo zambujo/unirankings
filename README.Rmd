@@ -47,4 +47,4 @@ library(here)
 
 ## License
 
-`unirankings` is Copyright 2020 Joao Martins. It is free software and may be redistributed under the terms specified in the MIT [LICENSE](./LICENCE.md) file.
+`unirankings` is released under the [MIT License](./LICENCE.md).

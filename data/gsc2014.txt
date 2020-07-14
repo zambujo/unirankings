@@ -1,0 +1,2107 @@
+Rank	Uinversity	Country	Citations
+1	Harvard University	USA	1299019
+2	University of Chicago	USA	858075
+3	Stanford University	USA	856971
+4	University of California Berkeley	USA	790276
+5	Massachusetts Institute of Technology	USA	757406
+6	University of Oxford	UNITED KINGDOM	716322
+7	University College London	UNITED KINGDOM	714700
+8	University of Cambridge	UNITED KINGDOM	676667
+9	Johns Hopkins University	USA	659611
+10	University of Michigan	USA	640486
+11	Michigan State University	USA	639518
+12	Yale University	USA	630426
+13	University of California San Diego	USA	616416
+14	University of California Los Angeles UCLA	USA	602609
+15	Columbia University New York	USA	592347
+16	Duke University	USA	590529
+17	University of Washington	USA	566464
+18	Princeton University	USA	562373
+19	Carnegie Mellon University	USA	561052
+20	Washington University Saint Louis	USA	558963
+21	University of Rochester	USA	536708
+22	University of Toronto	CANADA	535909
+23	Imperial College London	UNITED KINGDOM	522296
+24	Arizona State University	USA	510222
+25	Pennsylvania State University	USA	499541
+26	Cornell University	USA	493838
+27	New York University	USA	470827
+28	University of Minnesota	USA	465958
+29	Temple University	USA	460264
+30	University of British Columbia	CANADA	458698
+31	Ohio State University	USA	452394
+32	University of Illinois Urbana Champaign	USA	450851
+33	University of North Carolina Chapel Hill	USA	447055
+34	Boston University	USA	439805
+35	Georgia Institute of Technology	USA	439620
+36	University of Southern California	USA	435041
+37	University of California San Francisco	USA	432362
+38	University of California Irvine	USA	431602
+39	University of Maryland	USA	425543
+40	National University of Singapore	SINGAPORE	419702
+41	University of California Santa Barbara	USA	402858
+42	McMaster University	CANADA	400677
+43	Northwestern University	USA	398406
+44	King's College London	UNITED KINGDOM	393975
+45	University of Southampton	UNITED KINGDOM	391322
+46	University of Texas Austin	USA	391261
+47	University of Wisconsin Madison	USA	387222
+48	University of Massachusetts Amherst	USA	384361
+49	University of Pittsburgh	USA	381621
+50	University of Pennsylvania	USA	381547
+51	Lund University / Lunds Universitet	SWEDEN	378657
+52	Vanderbilt University	USA	377209
+53	University of California Davis	USA	376357
+54	California Institute of Technology Caltech	USA	370540
+55	University of Florida	USA	367929
+56	Rice University	USA	366110
+57	Australian National University	AUSTRALIA	364752
+58	University of Glasgow	UNITED KINGDOM	357821
+59	École Polytechnique Fédérale de Lausanne	SWITZERLAND	353766
+60	University of Edinburgh	UNITED KINGDOM	353092
+61	Northeastern University	USA	345189
+62	Rutgers The State University of New Jersey	USA	336983
+63	McGill University	CANADA	336441
+64	University of Manchester	UNITED KINGDOM	336015
+65	Bristol University	UNITED KINGDOM	328089
+66	Emory University	USA	322036
+67	Tufts University	USA	315706
+68	Texas A&M University	USA	313657
+69	VU University of Amsterdam / Vrije Universiteit Amsterdam	NETHERLANDS	311417
+70	Indiana University Bloomington	USA	309288
+71	University of Notre Dame	USA	302242
+72	Université d'Ottawa / University of Ottawa	CANADA	301908
+73	Brown University	USA	301212
+74	M D Anderson Cancer Center University of Texas	USA	299271
+75	University of Vermont	USA	298246
+76	Sungkyunkwan University / 성균관대학교	SOUTH KOREA	296359
+77	Iowa State University	USA	296174
+78	Catholic University of Leuven	BELGIUM	295789
+79	Korea University / 고려대학교	SOUTH KOREA	295681
+80	University of Texas San Antonio	USA	288043
+81	Leiden University / Universiteit Leiden	NETHERLANDS	285995
+82	Seoul National University / 서울대학교	SOUTH KOREA	285585
+83	University of Queensland	AUSTRALIA	285434
+84	Stony Brook University	USA	282814
+85	Zhejiang University (National Che Kiang University) / 浙江大学	CHINA	281891
+86	University of Texas Southwestern Medical Center at Dallas	USA	281463
+87	University of Alberta	CANADA	279343
+88	Simon Fraser University	CANADA	278767
+89	Karolinska Institute / Karolinska Institutet	SWEDEN	278622
+90	Dartmouth College	USA	278149
+91	University of California Santa Cruz	USA	276763
+92	Hong Kong University of Science & Technology	HONG KONG	276629
+93	Eidgenössische Technische Hochschule ETH Zürich / Swiss Federal Institute of Technology Zurich	SWITZERLAND	276084
+94	University of Sydney	AUSTRALIA	275963
+95	University of Utah	USA	275412
+96	Tsinghua University China / 清华大学	CHINA	273153
+97	Purdue University	USA	272979
+98	University of Helsinki / Helsingin yliopisto	FINLAND	270672
+99	Université de Montréal	CANADA	269993
+100	Kyoto University / 京都大学	JAPAN	266891
+101	University of Melbourne	AUSTRALIA	261403
+102	Université de Geneve	SWITZERLAND	260131
+103	Universität Zürich	SWITZERLAND	259146
+104	University of California Riverside	USA	258627
+105	Baylor College of Medicine	USA	258432
+106	University of Copenhagen / Københavns Universitet	DENMARK	257362
+107	City University of Hong Kong	HONG KONG	257343
+108	University of Groningen / Rijksuniversiteit Groningen	NETHERLANDS	256412
+109	Oregon Health & Science University	USA	254659
+110	Hebrew University of Jerusalem	ISRAEL	253560
+111	University of Massachusetts Medical School at Worcester	USA	253062
+112	University of Adelaide	AUSTRALIA	252666
+113	Peking University / 北京大学	CHINA	252371
+114	University of Georgia	USA	251139
+115	University of Illinois Chicago	USA	250403
+116	Rensselaer Polytechnic Institute	USA	248209
+117	Korea Advanced Institute of Science & Technology KAIST	SOUTH KOREA	248071
+118	Aarhus University / Aarhus Universitet	DENMARK	246708
+119	North Carolina State University	USA	246680
+120	University of Virginia	USA	244591
+121	Harbin Institute of Technology / 哈尔滨工业大学	CHINA	244258
+122	Universität Bern	SWITZERLAND	243074
+123	Case Western Reserve University	USA	242827
+124	University of Iowa	USA	241044
+125	University of Colorado Boulder	USA	240886
+126	University of Western Ontario	CANADA	238788
+127	Università degli Studi di Ferrara	ITALY	237483
+128	University of York	UNITED KINGDOM	236865
+129	Colorado State University	USA	235610
+130	Macquarie University	AUSTRALIA	235195
+131	City University of New York	USA	234480
+132	University of Connecticut	USA	233904
+133	Université Paris 6 Pierre and Marie Curie	FRANCE	233142
+134	Utrecht University / Universiteit Utrecht	NETHERLANDS	233007
+135	London School of Economics and Political Science	UNITED KINGDOM	230891
+136	Yonsei University / 연세대학교	SOUTH KOREA	229831
+137	Wageningen University & Research Centre	NETHERLANDS	229405
+138	Virginia Polytechnic Institute and State University	USA	229011
+139	University of Arizona	USA	228912
+140	University of Leeds	UNITED KINGDOM	228801
+141	University of Cincinnati	USA	228699
+142	University of New Mexico	USA	227681
+143	University of Hong Kong	HONG KONG	226199
+144	Monash University	AUSTRALIA	224533
+145	University of Miami	USA	224184
+146	University of Tokyo / 東京大学	JAPAN	224159
+147	Tel Aviv University	ISRAEL	223981
+148	King Abdullah University of Science & Technology	SAUDI ARABIA	223614
+149	University of Exeter	UNITED KINGDOM	219654
+150	Yeshiva University	USA	219514
+151	Queen's University Kingston	CANADA	219067
+152	University of South Florida	USA	219023
+153	University of Arkansas Fayetteville	USA	218908
+154	Lancaster University	UNITED KINGDOM	218614
+155	Fudan University (Shanghai Medical University) / 复旦大学	CHINA	217872
+156	Florida State University	USA	217387
+157	University of New Hampshire	USA	216266
+158	Università degli Studi di Padova	ITALY	215990
+159	Maastricht University / Universiteit Maastricht	NETHERLANDS	213986
+160	National Chiao Tung University	TAIWAN	212884
+161	Durham University	UNITED KINGDOM	212792
+162	University of Hawaii System	USA	212451
+163	University of Central Florida	USA	212384
+164	Universidade de São Paulo USP	BRAZIL	211833
+165	Università di Bologna (Università degli Studi di Bologna)	ITALY	211641
+166	National Taiwan University	TAIWAN	210322
+167	Università degli Studi di Perugia	ITALY	209904
+168	University of Nebraska Lincoln	USA	207117
+169	Weizmann Institute of Science	ISRAEL	206297
+170	University of Waterloo	CANADA	206093
+171	Radboud University / Radboud Universiteit Nijmegen	NETHERLANDS	205505
+172	University of Alabama Birmingham	USA	205206
+173	Ghent University / Universiteit Gent	BELGIUM	205109
+174	University of Western Australia	AUSTRALIA	205067
+175	Brunel University	UNITED KINGDOM	202648
+176	University of Delaware	USA	201985
+177	Cardiff University	UNITED KINGDOM	201815
+178	Shanghai Jiao Tong University / 上海交通大学	CHINA	201668
+179	Drexel University	USA	201594
+180	University of Auckland	NEW ZEALAND	200961
+181	Chinese University of Hong Kong	HONG KONG	200840
+182	University of Sheffield	UNITED KINGDOM	200202
+183	University of New South Wales	AUSTRALIA	199790
+184	University of Warwick	UNITED KINGDOM	198421
+185	Nanyang Technological University	SINGAPORE	198105
+186	Université Catholique de Louvain	BELGIUM	197680
+187	Syracuse University	USA	197018
+188	Osaka University / 大阪大学	JAPAN	196993
+189	Kent State University	USA	196714
+190	Nanjing University / 南京大学	CHINA	196316
+191	Hong Kong Polytechnic University	HONG KONG	195812
+192	Uppsala University / Uppsala Universitet	SWEDEN	195171
+193	University of Birmingham	UNITED KINGDOM	194777
+194	Ludwig Maximilians Universität München	GERMANY	194624
+195	Huazhong University of Science & Technology / 华中科技大学	CHINA	194225
+196	Erasmus University of Rotterdam / Erasmus Universiteit Rotterdam	NETHERLANDS	193778
+197	Aalto University / Aalto-yliopisto	FINLAND	193329
+198	Gwangju Institute of Science & Technology / 광주과학기술원	SOUTH KOREA	193017
+199	Oregon State University	USA	190937
+200	University at Buffalo	USA	190250
+201	Trinity College Dublin	IRELAND	189185
+202	George Washington University	USA	188638
+203	University of Calgary	CANADA	187789
+204	University of Amsterdam / Universiteit van Amsterdam	NETHERLANDS	187752
+205	Università degli Studi di Trento	ITALY	186504
+206	University of Nottingham	UNITED KINGDOM	186254
+207	University of Liverpool	UNITED KINGDOM	186129
+208	Newcastle University Newcastle upon Tyne	UNITED KINGDOM	185937
+209	Università degli Studi di Roma La Sapienza	ITALY	185854
+210	Università degli Studi di Torino	ITALY	183538
+211	University of Waikato	NEW ZEALAND	181880
+212	Soochow University / 苏州大学	CHINA	180914
+213	Georgia State University	USA	180832
+214	Université de Lausanne	SWITZERLAND	180425
+215	University of Dundee	UNITED KINGDOM	180231
+216	University of Aberdeen	UNITED KINGDOM	180024
+217	Università degli Studi di Firenze	ITALY	179868
+218	Queen Mary University of London	UNITED KINGDOM	178948
+219	University of Saint Andrews	UNITED KINGDOM	178548
+220	University of Sussex	UNITED KINGDOM	178408
+221	Pusan National University (Miryang) / 부산대학교	SOUTH KOREA	177645
+222	University of Colorado Denver	USA	177327
+223	University of Oslo / Universitetet i Oslo	NORWAY	176722
+224	University of Tennessee Knoxville	USA	176321
+225	University of Texas Arlington	USA	176283
+226	Xi'An Jiaotong University / 西安交通大学	CHINA	175539
+227	Georgetown University	USA	175418
+228	Southeast University China / 东南大学	CHINA	175057
+229	Scuola Normale Superiore di Pisa	ITALY	173956
+230	Rockefeller University	USA	173336
+231	University of Texas Dallas	USA	172781
+232	Aalborg University / Aalborg Universitet	DENMARK	172445
+233	Technical University of Denmark / Danmarks Tekniske Universitet	DENMARK	171622
+234	Universidad de Granada	SPAIN	171608
+235	Universität Wien	AUSTRIA	170943
+236	University of Houston	USA	170864
+237	Università degli Studi di Milano	ITALY	169028
+238	Delft University of Technology TU Delft	NETHERLANDS	167785
+239	Universität Tubingen	GERMANY	167647
+240	Technische Universität München	GERMANY	166348
+241	University of Kansas	USA	166179
+242	Stockholm University / Stockholms Universitet	SWEDEN	166166
+243	San Diego State University	USA	165424
+244	University of Cape Town	SOUTH AFRICA	164542
+245	Technion Israel Institute of Technology	ISRAEL	162076
+246	Universität Basel	SWITZERLAND	160692
+247	Clemson University	USA	158807
+248	Indiana University/Purdue University Indianapolis	USA	158288
+249	University of Victoria British Columbia	CANADA	158177
+250	Loughborough University	UNITED KINGDOM	157789
+251	University of Oregon	USA	157485
+252	University of Antwerp / Universiteit Antwerpen	BELGIUM	157456
+253	University of Maryland Baltimore County	USA	156558
+254	Royal Institute of Technology / Kungliga Tekniska Högskolan	SWEDEN	156494
+255	Beijing Normal University / 北京师范大学	CHINA	156488
+256	Sun Yat Sen University (Zhongshan University) / 中山大学	CHINA	155109
+257	Technische Universität Berlin	GERMANY	155031
+258	University of Science & Technology of China / 中国科学技术大学	CHINA	154388
+259	University of Gothenburg / Göteborgs Universitet	SWEDEN	153152
+260	Ruprecht Karls Universität Heidelberg	GERMANY	153057
+261	Universitat Pompeu Fabra	SPAIN	152620
+262	Tokyo Institute of Technology / 東京工業大学	JAPAN	151608
+263	York University	CANADA	151598
+264	Wayne State University	USA	151545
+265	Universitat de Barcelona	SPAIN	151365
+266	Technische Universität Dresden	GERMANY	150691
+267	National Central University	TAIWAN	150626
+268	Washington State University Pullman	USA	150432
+269	University of South Australia	AUSTRALIA	149624
+270	Missouri University of Science & Technology	USA	149380
+271	Tokyo Metropolitan University / 首都大学東京	JAPAN	149364
+272	Universität zu Köln	GERMANY	149170
+273	Shandong University / 山东大学	CHINA	149161
+274	Johannes Gutenberg Universität Mainz	GERMANY	147981
+275	University College Dublin National University of Ireland	IRELAND	147108
+276	Università degli Studi di Roma Tor Vergata	ITALY	146272
+277	New Jersey Institute of Technology	USA	145742
+278	University of Kentucky	USA	144800
+279	Università degli Studi di Parma	ITALY	144422
+280	Wake Forest University	USA	143720
+281	University of East Anglia	UNITED KINGDOM	142423
+282	Universität Konstanz	GERMANY	142205
+283	Freie Universität Berlin	GERMANY	142052
+284	Università degli Studi di Napoli Federico II	ITALY	141227
+285	Auburn University	USA	140956
+286	Universidade Estadual Paulista Júlio de Mesquita Filho	BRAZIL	140177
+287	University of Missouri Columbia	USA	140160
+288	University of Newcastle	AUSTRALIA	140019
+289	James Cook University	AUSTRALIA	139913
+290	Dalhousie University	CANADA	139577
+291	Université Laval	CANADA	139371
+292	Eötvös Loránd University Budapest / Eötvös Loránd Tudományegyetem ELTE	HUNGARY	138850
+293	Università degli Studi di Verona	ITALY	138695
+294	Medical University of South Carolina	USA	138663
+295	Eindhoven University of Technology / Technische Universiteit Eindhoven	NETHERLANDS	138416
+296	Wuhan University / 武汉大学	CHINA	138236
+297	University of Reading	UNITED KINGDOM	138191
+298	Tianjin University / 天津大学	CHINA	137812
+299	Nagoya University / 名古屋大学	JAPAN	136772
+300	Ulsan National Institute of Science & Technology UNIST	SOUTH KOREA	136246
+301	Tongji University / 同济大学	CHINA	136001
+302	Virginia Commonwealth University	USA	135522
+303	University of Technology Sydney	AUSTRALIA	135251
+304	École Normale Supérieure Paris	FRANCE	134676
+305	Université Libre de Bruxelles	BELGIUM	133877
+306	Karlsruhe Institute of Technology (Universität Karlsruhe)	GERMANY	133758
+307	University of Western Sydney	AUSTRALIA	133117
+308	Florida International University	USA	132884
+309	University of South Carolina	USA	132453
+310	Friedrich Alexander Universität Erlangen Nürnberg FAU	GERMANY	132414
+311	George Mason University	USA	132363
+312	Louisiana State University	USA	132279
+313	Kansas State University	USA	132220
+314	University of Oklahoma	USA	131740
+315	Texas Tech University	USA	131547
+316	Universität Innsbruck	AUSTRIA	131352
+317	Universidade Federal do Rio de Janeiro	BRAZIL	130992
+318	University of Iceland / Háskóli Íslands	ICELAND	130902
+319	Université Joseph Fourier Grenoble 1	FRANCE	130031
+320	National Tsing Hua University Taiwan	TAIWAN	129429
+321	Université de Liège	BELGIUM	129284
+322	Universität Leipzig	GERMANY	129093
+323	(3) University of Texas Medical Branch Galveston	USA	128853
+324	University of Louisville	USA	127193
+325	Old Dominion University	USA	127062
+326	Queensland University of Technology	AUSTRALIA	126462
+327	Flinders University	AUSTRALIA	126089
+328	Dalian University of Technology / 大连理工大学	CHINA	126085
+329	Università degli Studi di Pavia	ITALY	125771
+330	University of Leicester	UNITED KINGDOM	125186
+331	London School of Hygiene & Tropical Medicine	UNITED KINGDOM	124425
+332	Sichuan University / 四川大学	CHINA	123990
+333	Xiamen University / 厦门大学	CHINA	123910
+334	Norwegian University of Science & Technology / Norges Teknisk-Naturvitenskapelige Universitet	NORWAY	123877
+335	University of Bath	UNITED KINGDOM	123303
+336	University of Surrey	UNITED KINGDOM	122925
+336	University of Nevada las Vegas	USA	122925
+338	Nankai University / 南开大学	CHINA	122683
+339	East China University of Science & Technology / 华东理工大学	CHINA	122631
+340	Università degli Studi di Brescia	ITALY	122436
+341	International School for Advanced Studies / Scuola internazionale superiore di studi avanzati (SISSA) di Trieste	ITALY	122414
+342	University of Wollongong	AUSTRALIA	122210
+343	University of Alabama	USA	122095
+344	National Chung Hsing University	TAIWAN	121448
+345	Linköping University / Linköpings Universitet	SWEDEN	121147
+346	University of Nebraska Medical Center	USA	120578
+347	Curtin University of Technology	AUSTRALIA	120240
+348	Nanjing University of Aeronautics & Astronautics / 南京航空航天大学	CHINA	119671
+349	Carleton University	CANADA	119271
+350	Rheinische Friedrich Wilhelms Universität Bonn	GERMANY	118777
+351	Universität Würzburg	GERMANY	118623
+352	Universidade do Estado do Rio de Janeiro UERJ	BRAZIL	118145
+353	University of Bergen / Universitetet i Bergen	NORWAY	117528
+354	Université Paris Sud (Paris XI)	FRANCE	117244
+355	Aix-Marseille Université	FRANCE	116363
+356	University of Wyoming	USA	115974
+357	University College Cork National University of Ireland	IRELAND	115822
+358	University of Macau	MACAU	115770
+359	Hallym University / 한림대학교	SOUTH KOREA	114766
+360	Umea University / Umeå Universitet	SWEDEN	114615
+361	Brigham Young University	USA	114594
+362	University of Ulsan / 울산대학교	SOUTH KOREA	114266
+363	Centro de Investigación y de Estudios Avanzados del IPN CINVESTAV	MEXICO	113790
+364	Universidad Nacional Autónoma de México	MEXICO	113594
+365	Brandeis University	USA	112669
+366	Università di Pisa (Università degli Studi di Pisa)	ITALY	112569
+367	Griffith University	AUSTRALIA	112130
+368	Deakin University	AUSTRALIA	112124
+369	Portland State University	USA	111692
+370	Universität Stuttgart	GERMANY	111643
+371	Thomas Jefferson University	USA	111543
+372	University of Tasmania	AUSTRALIA	109971
+373	Beihang University (Beijing University of Aeronautics and Astronautics) / 北京航空航天大学	CHINA	109563
+374	University of California Merced	USA	109167
+375	Universidade Estadual de Campinas UNICAMP	BRAZIL	109154
+376	University of Twente / Universiteit Twente	NETHERLANDS	108933
+377	Tohoku University / 東北大学	JAPAN	108828
+378	University of Memphis (incl. Lambuth)	USA	107531
+379	Hokkaido University / 北海道大学	JAPAN	107313
+380	Universidad Complutense de Madrid	SPAIN	107141
+381	Friedrich Schiller Universität Jena	GERMANY	106890
+382	University of Electronic Science & Technology of China / 电子科技大学	CHINA	106703
+383	Binghamton University	USA	106702
+384	Oklahoma State University Stillwater	USA	106459
+385	Università degli Studi di Trieste	ITALY	106156
+386	Università degli Studi di Genova	ITALY	106074
+387	Rochester Institute of Technology	USA	106050
+388	Pohang University of Science & Technology / 포항공과대학교	SOUTH KOREA	105582
+389	La Trobe University	AUSTRALIA	105246
+390	University of Kent	UNITED KINGDOM	105217
+391	Università degli Studi di Siena	ITALY	105057
+392	University of Idaho	USA	104708
+393	Christian Albrechts Universität zu Kiel	GERMANY	104605
+394	Universität Potsdam	GERMANY	104463
+395	Hunan University / 湖南大学	CHINA	104442
+396	Universidade de Aveiro	PORTUGAL	104434
+397	Illinois Institute of Technology	USA	104418
+398	INSEAD Business School	FRANCE	104163
+399	Seconda Università degli Studi di Napoli	ITALY	104089
+400	Boston College	USA	103852
+401	University of Lethbridge	CANADA	103766
+402	University of Rhode Island	USA	103652
+403	Institute of Cancer Research University of London	UNITED KINGDOM	103127
+404	University of Guelph	CANADA	103107
+405	Beijing University of Posts & Telecommunications / 北京邮电大学	CHINA	103053
+406	Nanjing Agricultural University / 南京农业大学	CHINA	102894
+407	China Agricultural University / 中国农业大学	CHINA	102797
+408	University of Otago	NEW ZEALAND	102743
+409	University of Maine System	USA	102209
+410	Beijing (Northern) Jiaotong University / 北京交通大学	CHINA	102133
+411	Universitat de València	SPAIN	102026
+412	University of North Texas	USA	101842
+413	Medizinische Universität Wien	AUSTRIA	101082
+414	Université de Bordeaux	FRANCE	101063
+415	Ningbo University / 宁波大学	CHINA	100553
+416	University of Akron	USA	100502
+417	Universidade de Lisboa	PORTUGAL	100042
+418	London Business School	UNITED KINGDOM	99812
+419	University of Tartu / Tartu Ülikool	ESTONIA	99665
+420	Indian Institute of Science Bangalore	INDIA	99171
+421	Birkbeck University of London	UNITED KINGDOM	98949
+421	Swansea University	UNITED KINGDOM	98949
+423	RMIT University	AUSTRALIA	98916
+424	Universidad de Buenos Aires	ARGENTINA	98888
+425	Tulane University	USA	98854
+426	University of Strathclyde	UNITED KINGDOM	98213
+427	Chalmers University of Technology	SWEDEN	98144
+428	Universidade Federal de Minas Gerais UFMG	BRAZIL	97989
+429	Queen's University Belfast	UNITED KINGDOM	97953
+430	European University Institute	ITALY	97612
+431	Saint Louis University	USA	97527
+432	Beijing Institute of Technology / 北京理工大学	CHINA	97477
+433	Università degli Studi di Milano Bicocca	ITALY	97331
+434	Heinrich Heine Universität Düsseldorf	GERMANY	97034
+435	Indian Institute of Technology Bombay	INDIA	97000
+436	Northeastern University China / 东北大学	CHINA	96979
+437	Università degli Studi di Bari Aldo Moro	ITALY	95977
+438	Georg-August-Universität Göttingen	GERMANY	95797
+439	Tilburg University	NETHERLANDS	95512
+440	Worcester Polytechnic Institute	USA	95434
+441	University at Albany	USA	95353
+442	University of Arkansas for Medical Sciences	USA	95260
+443	University of Pretoria	SOUTH AFRICA	95192
+444	Rheinisch Westfalische Technische Hochschule Aachen	GERMANY	95124
+445	University of Essex	UNITED KINGDOM	94736
+446	Université Toulouse 3 Paul Sabatier	FRANCE	94670
+447	Universität Freiburg	GERMANY	94060
+448	Florida Atlantic University	USA	93835
+449	Università della Calabria (Università degli Studi della Calabria)	ITALY	93724
+450	Copenhagen Business School	DENMARK	93662
+451	Royal Holloway University of London	UNITED KINGDOM	93622
+452	Universität Hamburg	GERMANY	93175
+453	Universität Ulm	GERMANY	93029
+454	University of Ulster	UNITED KINGDOM	92664
+455	Università degli Studi di Modena e Reggio Emilia	ITALY	92428
+456	Colorado School of Mines	USA	91958
+457	Wright State University	USA	91590
+458	Kyungpook (Kyungbook) National University / 경북대학교	SOUTH KOREA	91291
+459	University of Manitoba	CANADA	91257
+460	Concordia University Montréal	CANADA	90837
+460	Universidad del País Vasco / Euskal Herriko Unibertsitatea	SPAIN	90837
+462	Università degli Studi di Palermo	ITALY	90459
+463	Politecnico di Milano	ITALY	90037
+464	Lehigh University	USA	89869
+465	Technische Universität Wien	AUSTRIA	89808
+466	Nanjing University of Science & Technology / 南京理工大学	CHINA	89673
+467	Open University UK	UNITED KINGDOM	89645
+468	Universiti Sains Malaysia	MALAYSIA	89405
+469	University of Montana Missoula	USA	89043
+470	National Cheng Kung University	TAIWAN	88114
+471	Chonnam National University (Yosu) / 전남대학교	SOUTH KOREA	88058
+472	National University of Ireland Galway	IRELAND	87884
+473	Inha University / 인하대학교	SOUTH KOREA	87782
+474	Southern Methodist University	USA	87776
+475	Universidad Autónoma de Madrid	SPAIN	87496
+476	Shanghai University / 上海大学	CHINA	87427
+477	Charité Universitätsmedizin Berlin	GERMANY	86919
+478	Université de Fribourg / Universität Freiburg	SWITZERLAND	86905
+479	New York Medical College	USA	86669
+480	University of Windsor	CANADA	86584
+481	Université du Luxembourg	LUXEMBOURG	86339
+482	University of Wisconsin Milwaukee	USA	86295
+483	Wuhan University of Technology / 武汉理工大学	CHINA	85996
+484	Universidade Federal do Rio Grande do Sul UFRGS	BRAZIL	85953
+485	West Virginia University	USA	85819
+486	Massey University	NEW ZEALAND	85771
+487	Bangor University	UNITED KINGDOM	85677
+488	Hanyang University / 한양대학교	SOUTH KOREA	84923
+489	University of Mississippi Medical Center	USA	84424
+490	University of Oulu / Oulun yliopisto	FINLAND	84354
+491	Institute of Education University of London	UNITED KINGDOM	84316
+492	Universität Bielefeld	GERMANY	83822
+493	Auckland University of Technology	NEW ZEALAND	83696
+494	Bar Ilan University	ISRAEL	83661
+495	Free University of Brussels / Vrije Universiteit Brussel VUB	BELGIUM	83589
+496	Johann Wolfgang Goethe Universität Frankfurt am Main	GERMANY	83391
+497	National and Kapodistrian University of Athens	GREECE	83360
+498	École Polytechnique France	FRANCE	83181
+499	Hong Kong Baptist University	HONG KONG	83094
+500	University of Canterbury	NEW ZEALAND	83091
+501	Université de Sherbrooke	CANADA	82829
+502	University of Saskatchewan	CANADA	82803
+503	University of Mississippi	USA	82611
+504	Ruhr Universität Bochum	GERMANY	82608
+505	Humboldt Universität zu Berlin	GERMANY	81888
+506	Justus Liebig Universität Giessen	GERMANY	81667
+507	Xidian University / 西安电子科技大学	CHINA	81526
+508	Universitat Autònoma de Barcelona	SPAIN	81412
+509	Universität Regensburg	GERMANY	81082
+510	Université du Québec Montréal	CANADA	80845
+511	University of Southern Denmark / Syddansk Universitet	DENMARK	80622
+512	Université Montpellier	FRANCE	80565
+513	University of Debrecen / Debreceni Egyetem DE	HUNGARY	80430
+514	Pontificia Universidad Católica de Chile	CHILE	80105
+515	Universitat Politècnica de Catalunya BarcelonaTech	SPAIN	79897
+516	Heriot-Watt University	UNITED KINGDOM	79404
+517	Chiba University / 千葉大学	JAPAN	79224
+518	Università Commerciale Luigi Bocconi Milano	ITALY	78747
+519	South China University of Technology / 华南理工大学	CHINA	78604
+520	College of William & Mary	USA	78543
+521	Université de Nice Sophia Antipolis	FRANCE	78456
+522	Memorial University of Newfoundland	CANADA	77967
+523	Kyushu University / 九州大学	JAPAN	77778
+524	Universidad de Chile	CHILE	77404
+525	Lanzhou University / 兰州大学	CHINA	77210
+526	Hohai University / 河海大学	CHINA	77106
+527	Oakland University	USA	77012
+528	University of Massachusetts Lowell	USA	76642
+529	Universidade de Santiago de Compostela	SPAIN	76608
+530	Boğaziçi University	TURKEY	76593
+531	Universität Bremen	GERMANY	76365
+532	Technische Universität Darmstadt	GERMANY	76320
+533	Santa Fe Institute	USA	76244
+534	Baylor University	USA	76190
+535	Università Cattolica del Sacro Cuore	ITALY	75664
+536	Universidade Federal de São Paulo UNIFESP	BRAZIL	75561
+537	University of North Carolina at Greensboro	USA	75419
+538	École Normale Supérieure de Lyon	FRANCE	75391
+539	Jilin University / 吉林大学	CHINA	74741
+540	Okayama University / 岡山大学	JAPAN	74533
+541	Indian Institute of Technology Delhi	INDIA	74295
+542	Université de Lorraine	FRANCE	74157
+543	Stellenbosch University	SOUTH AFRICA	74142
+544	Université Claude Bernard Lyon 1	FRANCE	73725
+545	City University London	UNITED KINGDOM	73649
+546	HEC Montréal École de Gestion	CANADA	73514
+547	Georgia Regents University (Augusta State University)	USA	73460
+548	University of Hull	UNITED KINGDOM	73316
+549	Université Paris Descartes Paris 5	FRANCE	73169
+550	Beijing University of Technology (Beijing Polytechnic University) / 北京工业大学	CHINA	72840
+551	Central South University (Zhongnan University) / 中南大学	CHINA	72818
+552	Universität Mannheim	GERMANY	72609
+553	Victoria University of Wellington	NEW ZEALAND	72589
+554	Universitat Rovira i Virgili	SPAIN	72524
+555	University of Tromso / Universitetet i Tromsø	NORWAY	72060
+556	University of Texas El Paso	USA	72004
+557	University of Alaska	USA	71939
+558	University of New Brunswick	CANADA	71864
+559	Université de Rennes 1	FRANCE	71032
+560	Aristotle University of Thessaloniki	GREECE	70778
+561	Technische Universität Graz	AUSTRIA	70394
+562	University of Warsaw / Uniwersytet Warszawski	POLAND	70242
+563	Singapore Management University	SINGAPORE	69922
+564	Northern Arizona University	USA	69731
+565	Medical College of Wisconsin	USA	69690
+566	Universidade do Minho	PORTUGAL	69620
+567	Nara Institute of Science & Technology / 奈良先端科学技術大学院大学	JAPAN	69589
+568	East China Normal University / 华东师范大学	CHINA	69533
+569	Indian Institute of Technology Madras	INDIA	69273
+570	Ewha Womens University / 이화여자대학교	SOUTH KOREA	69095
+571	Depaul University	USA	69043
+572	Universidade Federal do ABC UFABC	BRAZIL	69032
+573	École Polytechnique de Montréal	CANADA	68618
+574	Ohio University	USA	68572
+575	Technische Universität Braunschweig	GERMANY	68553
+575	Clarkson University	USA	68553
+577	Johannes Kepler Universität Linz	AUSTRIA	68129
+578	Universidad de Málaga	SPAIN	68075
+579	University of Malaya	MALAYSIA	67971
+580	Université INRS Institut National de la Recherche Scientifique	CANADA	67922
+581	University of Patras	GREECE	67414
+582	Universita degli Studi Magna Graecia di Catanzaro	ITALY	67274
+583	Università Politécnica delle Marche	ITALY	67246
+584	Ben Gurion University of the Negev	ISRAEL	66920
+585	Utah State University	USA	66544
+586	Jyväskylä University / Jyväskylän yliopisto	FINLAND	66393
+587	Uniformed Services University of the Health Sciences	USA	66151
+588	University of Huddersfield	UNITED KINGDOM	65994
+589	Northumbria University	UNITED KINGDOM	65960
+590	Universidade do Porto	PORTUGAL	65773
+591	Universidad Politécnica de Valencia	SPAIN	65620
+592	University of Missouri Kansas City	USA	65549
+593	Claremont Graduate University	USA	65236
+594	National Taiwan University of Science & Technology	TAIWAN	65227
+595	Swedish University of Agricultural Sciences / Sveriges Lantbruksuniversitet	SWEDEN	65200
+596	Kyung Hee University / 경희대학교	SOUTH KOREA	65145
+597	National Sun Yat Sen University	TAIWAN	65126
+598	Universidad de Sevilla	SPAIN	65108
+599	Universidade Nova de Lisboa	PORTUGAL	65066
+600	Jinan University / 暨南大学	CHINA	64953
+601	Fondation Nationale des Sciences Politiques Institut d'Études Politiques de Paris	FRANCE	64842
+602	University of Regina	CANADA	64841
+603	National Technical University of Athens	GREECE	64836
+604	Manchester Metropolitan University	UNITED KINGDOM	64800
+605	Waseda University / 早稲田大学	JAPAN	64747
+606	Tehran University of Medical Sciences	IRAN	64680
+607	Universidad de Oviedo	SPAIN	64668
+608	National Taiwan Normal University	TAIWAN	64609
+609	Aston University	UNITED KINGDOM	64378
+610	Babson College	USA	64344
+611	Brighton and Sussex Medical School	UNITED KINGDOM	64212
+612	Australian Catholic University	AUSTRALIA	63808
+613	Universität Münster	GERMANY	63595
+614	Eurasian National University L N Gumilev / Л Н Гумилев атындағы Еуразия ұлттық университеті	KAZAKHSTAN	63542
+615	University of North Carolina Charlotte	USA	63259
+616	Indian Institute of Technology Kharagpur	INDIA	63009
+617	Universidade de Coimbra	PORTUGAL	62994
+618	Abo Akademi University	FINLAND	62902
+619	Goldsmiths University of London	UNITED KINGDOM	62864
+620	Central Queensland University CQUniversity	AUSTRALIA	62813
+621	Tamkang University	TAIWAN	62592
+622	Université d'Angers Université Pays de la Loire	FRANCE	62548
+623	Università degli Studi di Salerno	ITALY	61921
+624	Universidad Miguel Hernández	SPAIN	61884
+625	Università degli Studi Roma Tre	ITALY	61846
+626	École Supérieure de Physique et de Chimie Industrielles de la Ville de Paris ParisTech	FRANCE	61800
+627	Université de Nantes	FRANCE	61144
+628	Medizinische Universität Innsbruck	AUSTRIA	60958
+629	Université de Strasbourg	FRANCE	60845
+630	University of Crete	GREECE	60836
+631	Miami University of Ohio	USA	60803
+632	Mississippi State University	USA	60668
+633	Università degli Studi dell'Insubria Varese e Como	ITALY	60329
+634	Aberystwyth University / Prifysgol Aberystwyth	UNITED KINGDOM	60128
+635	Texas State University	USA	60090
+636	Sogang University / 서강대학교	SOUTH KOREA	59857
+637	Tokyo Medical and Dental University / 東京医科歯科大学	JAPAN	59817
+638	Philipps Universität Marburg	GERMANY	59604
+639	Universität Augsburg	GERMANY	59277
+640	Victoria University	AUSTRALIA	59078
+641	Universität Duisburg Essen	GERMANY	58967
+642	Dublin City University	IRELAND	58658
+643	Université des Sciences et Technologies Lille 1	FRANCE	58655
+644	Università degli Studi di Udine	ITALY	58557
+645	Universität des Saarlandes	GERMANY	58480
+646	University of Kwazulu Natal	SOUTH AFRICA	58311
+647	University of Denver	USA	58257
+648	University of the Witwatersrand	SOUTH AFRICA	58155
+649	University of Toledo	USA	58093
+650	Universidade de Lisboa	PORTUGAL	58048
+651	Stevens Institute of Technology	USA	57999
+652	Università degli Studi di Messina	ITALY	57145
+653	University of Stirling	UNITED KINGDOM	57051
+654	Montana State University	USA	57013
+655	Università degli Studi del Piemonte Orientale Amedeo Avogadro	ITALY	56976
+656	Universität Hannover	GERMANY	56806
+657	King Fahd University of Petroleum & Minerals	SAUDI ARABIA	56734
+658	University of New England Australia	AUSTRALIA	56697
+659	Istanbul Technical University / İstanbul Teknik Üniversitesi	TURKEY	56627
+660	Universidad Politécnica de Madrid	SPAIN	56604
+661	University of Johannesburg	SOUTH AFRICA	56499
+662	Ajou University / 아주대학교	SOUTH KOREA	56348
+663	Shenzhen University / 深圳大学	CHINA	56221
+664	École Normale Supérieure Cachan	FRANCE	56199
+665	Warsaw University of Technology / Politechnika Warszawska	POLAND	56170
+666	University of Szeged / Szegedi Tudományegyetem SZTE	HUNGARY	56142
+667	Universidade de Vigo	SPAIN	56131
+668	Universiti Teknologi Malaysia	MALAYSIA	56083
+669	University of Portsmouth	UNITED KINGDOM	56066
+670	Sejong University / 세종대학교	SOUTH KOREA	55808
+671	Keele University	UNITED KINGDOM	55726
+672	California State University Fullerton	USA	55702
+673	Universidad de Zaragoza	SPAIN	55696
+674	Università della Svizzera Italiana Lugano	SWITZERLAND	55512
+675	Otto Von Guericke Universität Magdeburg	GERMANY	55408
+676	University of Canberra	AUSTRALIA	55048
+677	University of Yamanashi / 山梨大学	JAPAN	54913
+678	Ocean University of China / 中国海洋大学	CHINA	54846
+679	Santa Clara University	USA	54808
+680	Universidade de Brasília UNB	BRAZIL	54721
+681	University of Cyprus	CYPRUS	54655
+682	University of Alabama Huntsville	USA	54422
+683	Norwegian University of Life Sciences / Norges miljø- og biovitenskapelige universitet	NORWAY	54417
+684	University of the West of England	UNITED KINGDOM	54085
+685	University of Ljubljana / Univerza v Ljubljani	SLOVENIA	54083
+686	University of Nevada Reno	USA	54064
+687	Bilkent University	TURKEY	54039
+688	University of Wolverhampton	UNITED KINGDOM	53818
+689	Keio University / 慶応義塾大学	JAPAN	53362
+690	Universidad Técnica Federico Santa María	CHILE	53181
+691	American University Washington DC	USA	53132
+692	Semmelweis University Budapest / Semmelweis Egyetem SE	HUNGARY	53002
+693	State University of New York Upstate Medical University	USA	52859
+694	Tata Institute of Fundamental Research	INDIA	52687
+695	Budapest University of Technology and Economics / Budapesti Műszaki és Gazdaságtudományi Egyetem BME	HUNGARY	52515
+696	Murdoch University	AUSTRALIA	52352
+697	Universidad de Puerto Rico	PUERTO RICO	52291
+698	École Nationale Supérieure des Telecommunications (Telecom ParisTech)	FRANCE	52137
+699	Texas A&M University Galveston	USA	52044
+700	Florida Institute of Technology	USA	52042
+701	Edith Cowan University	AUSTRALIA	51794
+702	Universitat d'Alacant / Universidad de Alicante	SPAIN	51739
+703	Bowling Green State University	USA	51736
+704	University of Tsukuba / 筑波大学	JAPAN	51595
+705	Clark University	USA	51546
+706	Fordham University	USA	51264
+707	École Supérieure d'Electricite SUPELEC	FRANCE	51136
+708	Naval Postgraduate School	USA	51112
+709	Kobe University / 神戸大学	JAPAN	51066
+710	Institut Eurecom École d'Ingénieurs en Systemes de Communication	FRANCE	50940
+711	Louisiana Tech University	USA	50877
+712	Carl Von Ossietzky Universität Oldenburg	GERMANY	50750
+713	Yuan Ze University	TAIWAN	50645
+714	Université de Montpellier	FRANCE	50576
+715	Universitat Jaume I	SPAIN	50553
+716	Jawaharlal Nehru Centre for Advanced Scientific Research	INDIA	50415
+717	Northwestern Polytechnical University / 西北工业大学	CHINA	49916
+718	Università degli Studi di Urbino Carlo Bo	ITALY	49743
+719	University of South Alabama	USA	49732
+720	University of Turku / Turun yliopisto	FINLAND	49563
+721	Tampere University of Technology / Tampereen teknillinen yliopisto	FINLAND	49551
+722	North Carolina Agricultural & Technical State University	USA	49490
+723	Politecnico di Torino	ITALY	49412
+724	University of Missouri Saint Louis	USA	49176
+725	Mines ParisTech École des Mines de Paris	FRANCE	49098
+726	Southern Illinois University	USA	49094
+727	Erciyes University	TURKEY	49061
+728	Koç University	TURKEY	48848
+729	Indian Institute of Technology Kanpur	INDIA	48834
+730	University of Haifa	ISRAEL	48767
+731	Universität zu Lubeck	GERMANY	48667
+732	Università degli Studi di Cagliari	ITALY	48487
+733	University of Louisiana at Lafayette	USA	48381
+734	University of Limerick	IRELAND	48357
+735	Universität Saint Gallen	SWITZERLAND	48237
+736	East Carolina University	USA	48206
+737	Technical University of Crete	GREECE	48201
+738	University of Electro-Communications / 電気通信大学	JAPAN	48172
+739	Universitat de Girona	SPAIN	48149
+740	Belarusian State University / Белорусский государственный университет	BELARUS	48113
+741	Università degli Studi di Camerino	ITALY	48108
+742	California Polytechnic State University Cal Poly	USA	47871
+743	Orebro University / Örebro Universitet	SWEDEN	47786
+743	University of Bradford	UNITED KINGDOM	47786
+745	Dongguk University / 동국대학교	SOUTH KOREA	47711
+746	Universidad de Castilla la Mancha	SPAIN	47689
+747	Georgia Southern University	USA	47615
+748	University of Eastern Finland / Itä-Suomen yliopisto	FINLAND	47566
+749	University of Massachusetts Dartmouth	USA	47505
+750	University of Tampere / Tampereen yliopisto	FINLAND	47348
+751	National Taiwan Ocean University	TAIWAN	47232
+752	Swedish School of Economics and Business Administration / Hanken Svenska handelshögskolan	FINLAND	47138
+753	North Dakota State University	USA	47132
+754	Maynooth University (National University of Ireland Maynooth)	IRELAND	47014
+755	University of Southern Queensland	AUSTRALIA	46961
+756	Grenoble Institute of Technology Institut polytechnique de Grenoble	FRANCE	46868
+757	Universiti Kebangsaan Malaysia / National University of Malaysia	MALAYSIA	46664
+758	Cranfield University	UNITED KINGDOM	46642
+759	University of Massachusetts Boston	USA	46200
+760	Universidade Federal de São Carlos	BRAZIL	46011
+761	Institut d'Optique Graduate School	FRANCE	45968
+762	Universidad de Salamanca	SPAIN	45849
+763	Beijing University of Chemical Technology / 北京化工大学	CHINA	45821
+764	Universität Osnabruck	GERMANY	45793
+765	Université Denis Diderot Paris 7	FRANCE	45261
+766	Technische Universität Clausthal	GERMANY	45195
+767	Czech Technical University in Prague / České Vysoké Učení Technické v Praze	CEZCH REPUBLIC	45191
+767	Technische Universität Dortmund	GERMANY	45191
+769	Universidade Federal de Santa Catarina UFSC	BRAZIL	45058
+770	University of Delhi	INDIA	45022
+771	Chungnam National University / 충남대학교	SOUTH KOREA	45013
+772	Universidad de Murcia	SPAIN	44899
+773	Università degli Studi di Catania	ITALY	44725
+774	Institut National des Sciences Appliquées de Lyon	FRANCE	44710
+775	San Francisco State University	USA	44699
+776	Nanjing Normal University / 南京师范大学	CHINA	44577
+777	Martin Luther Universität Halle Wittenberg	GERMANY	44452
+778	University of Plymouth	UNITED KINGDOM	44260
+779	Université de Mons (Université de Mons-Hainaut)	BELGIUM	44117
+780	Alpen Adria Universität Klagenfurt	AUSTRIA	44037
+781	Università degli Studi di Sassari	ITALY	43960
+782	École de Technologie Supérieure	CANADA	43886
+783	Chongqing University / 重庆大学	CHINA	43877
+784	Villanova University	USA	43559
+785	University of Tehran	IRAN	43395
+786	Universität Bayreuth	GERMANY	43307
+787	Universidad de Las Palmas de Gran Canaria	SPAIN	43301
+788	Saint George's University of London	UNITED KINGDOM	43253
+789	University of Seoul / 서울시립대학교	SOUTH KOREA	43036
+790	University of Hertfordshire	UNITED KINGDOM	43001
+791	Loyola University Chicago	USA	42996
+792	Jawaharlal Nehru University	INDIA	42954
+793	Universitat de les Illes Balears	SPAIN	42944
+794	Technische Universität Kaiserslautern	GERMANY	42730
+795	Medizinische Hochschule Hannover	GERMANY	42729
+796	Universidad de Cantabria	SPAIN	42681
+797	Universidad de Extremadura	SPAIN	42667
+798	Universidade Federal do Paraná	BRAZIL	42421
+799	Universidade Federal de Pelotas UFPEL	BRAZIL	42323
+800	Jiangsu University / 江苏大学	CHINA	42261
+801	Lomonosov Moscow State University / Московский государственный университет М В Ломоносова	RUSSIA	42138
+802	Zewail City of Science and Technology	EGYPT	42084
+803	Yokohama National University / 横浜国立大学	JAPAN	41872
+804	Renmin University of China / 中国人民大学	CHINA	41847
+805	Universidade Federal de Viçosa UFV	BRAZIL	41645
+806	Universidad de Córdoba	SPAIN	41567
+807	Università del Salento (Università degli Studi di Lecce)	ITALY	41429
+808	Universidade Federal de Santa Maria UFSM	BRAZIL	41196
+809	Wirtschaftsuniversität Wien / Vienna University of Economics and Business	AUSTRIA	41053
+810	Athens University of Economics and Business	GREECE	41000
+811	New Mexico State University	USA	40960
+812	Tokyo University of Science / 東京理科大学	JAPAN	40896
+813	Université de Bourgogne	FRANCE	40867
+814	Western Michigan University	USA	40771
+815	Hasselt University / Universiteit Hasselt (University of Limburg)	BELGIUM	40696
+816	Hefei University of Technology / 合肥工业大学	CHINA	40622
+817	South Dakota State University	USA	40555
+818	National Chengchi University	TAIWAN	40536
+819	Ryerson University	CANADA	40411
+820	Scuola Superiore di Studi Universitari e di Perfezionamento Sant'Anna (SSSUP) di Pisa	ITALY	40287
+821	Università degli Studi Gabriele d'Annunzio Chieti e Pescara	ITALY	40213
+822	Oxford Brookes University	UNITED KINGDOM	40103
+823	Liverpool John Moores University	UNITED KINGDOM	40088
+824	Chulalongkorn University	THAILAND	40030
+825	Universidad Nacional de la Plata	ARGENTINA	39903
+826	United Nations University (国際連合大学)	JAPAN	39817
+827	Universität Rostock	GERMANY	39802
+828	Royal College of Surgeons of Ireland	IRELAND	39788
+829	Libera università di Bolzano / Freie Universität Bozen / Free University of Bozen	ITALY	39733
+830	Universität Siegen	GERMANY	39708
+831	Hiroshima University / 広島大学	JAPAN	39643
+832	École Nationale de la Statistique et de l'Administration Économique	FRANCE	39457
+833	Southern Cross University	AUSTRALIA	39189
+834	University of Ioannina	GREECE	39146
+835	Kanazawa University / 金沢大学	JAPAN	39103
+836	Cleveland State University	USA	39069
+837	Nicolaus Copernicus University / Uniwersytet Mikołaja Kopernika w Toruniu	POLAND	38908
+838	Boise State University	USA	38844
+839	Illinois State University	USA	38791
+840	Open University / Open Universiteit Netherlands	NETHERLANDS	38642
+841	Universität Hohenheim	GERMANY	38629
+842	Poznan University of Technology / Politechnika Poznańska	POLAND	38462
+843	Leuphana Universität Lüneburg	GERMANY	38366
+844	Masaryk University in Brno / Masarykova Univerzita v Brně	CEZCH REPUBLIC	38225
+845	Taiyuan University of Technology / 太原理工大学	CHINA	38221
+846	University of Pannonia (University of Veszprem) / Pannon Egyetem	HUNGARY	38070
+847	Roehampton University	UNITED KINGDOM	38054
+848	Universidad de Navarra	SPAIN	38014
+849	University of Karlstad / Karlstads Universitet	SWEDEN	37956
+850	Università degli Studi della Tuscia	ITALY	37921
+851	Université de Bretagne Occidentale	FRANCE	37800
+852	Institute of Chemical Technology	INDIA	37794
+853	Interdisciplinary Center Herzliya	ISRAEL	37791
+854	Lincoln University	UNITED KINGDOM	37763
+855	American University of Beirut	LEBANON	37514
+856	Trent University	CANADA	37484
+857	Universidade Estadual de Maringá	BRAZIL	37444
+858	Universidade Federal de Pernambuco	BRAZIL	37435
+859	Lakehead University	CANADA	37430
+859	Indian Institute of Technology Roorkee	INDIA	37430
+861	Southwest University China / 西南大学	CHINA	37400
+862	Universidad de Valladolid	SPAIN	37265
+863	University of Westminster	UNITED KINGDOM	37218
+864	University of Greenwich	UNITED KINGDOM	37071
+865	Kookmin University / 국민대학교	SOUTH KOREA	37007
+866	Isfahan University of Technology	IRAN	36976
+867	Mahidol University	THAILAND	36948
+868	Western Kentucky University	USA	36882
+869	Kennesaw State University	USA	36872
+870	Qatar University	QATAR	36870
+871	University of the West Indies	JAMAICA	36797
+872	Université de Neuchâtel	SWITZERLAND	36754
+873	Université de Poitiers	FRANCE	36691
+874	Universidad Carlos III de Madrid	SPAIN	36658
+875	Universität Kassel	GERMANY	36568
+876	Charles University in Prague / Univerzita Karlova v Praze	CEZCH REPUBLIC	36543
+877	Middle East Technical University / Orta Doğu Teknik Üniversitesi	TURKEY	36521
+878	Morehouse School of Medicine	USA	36513
+879	Pontificia Universidade Católica do Rio Grande do Sul PUCRS	BRAZIL	36345
+880	Banaras Hindu University	INDIA	36284
+881	University of Jordan	JORDAN	35936
+882	Charles Darwin University	AUSTRALIA	35829
+883	Roskilde University / Roskilde Universitet	DENMARK	35666
+884	Universiti Putra Malaysia	MALAYSIA	35662
+885	South China Agricultural University / 华南农业大学	CHINA	35654
+886	Wesleyan University	USA	35596
+887	Università degli Studi dell'Aquila	ITALY	35568
+888	Charles Sturt University	AUSTRALIA	35469
+889	Northern Illinois University	USA	35344
+890	Universidad de Jaén	SPAIN	35273
+891	Sabanci University	TURKEY	35099
+892	Aga Khan University	PAKISTAN	35082
+893	Universidad de Alcalá	SPAIN	34950
+894	Minufiya University	EGYPT	34940
+895	Middlesex University	UNITED KINGDOM	34898
+896	Universidad Rey Juan Carlos	SPAIN	34888
+897	Universität Salzburg	AUSTRIA	34856
+898	Royal Veterinary College University of London	UNITED KINGDOM	34828
+899	Université de Namur	BELGIUM	34634
+900	California State University Long Beach	USA	34498
+901	Catholic University of America	USA	34433
+902	University of Thessaly	GREECE	34371
+903	Huazhong (Central China) Agriculture University / 华中农业大学	CHINA	34366
+904	Universidad Nacional de Córdoba	ARGENTINA	34336
+905	Tokyo Women's Medical University / 東京女子医科大学	JAPAN	34328
+906	Universität Paderborn	GERMANY	34259
+907	Fundação Getulio Vargas FGV	BRAZIL	34224
+908	Chonbuk National University (Iksan National College) / 전북대학교	SOUTH KOREA	34211
+909	Istanbul University	TURKEY	34102
+910	Amity University	INDIA	33983
+911	Universidade Federal de Goiás UFG	BRAZIL	33872
+912	Glasgow Caledonian University	UNITED KINGDOM	33790
+913	Michigan Technological University	USA	33787
+914	International Islamic University of Malaysia	MALAYSIA	33780
+915	Brock University	CANADA	33737
+916	Texas Christian University	USA	33541
+917	State University of New York Downstate Medical Center Brooklyn	USA	33458
+918	Singapore University of Technology and Design	SINGAPORE	33257
+919	University of Hyogo (Himeji Institute of Technology) / 兵庫県立大学	JAPAN	33244
+920	Pukyong National University / 부경대학교	SOUTH KOREA	33206
+921	Nova Southeastern University	USA	33204
+922	Kumamoto University / 熊本大学	JAPAN	33197
+922	Idaho State University	USA	33197
+924	Universidad Nacional de Educación a Distancia UNED	SPAIN	33196
+925	Jacobs University Bremen	GERMANY	33189
+926	University of New Orleans	USA	33146
+927	Sam Houston State University	USA	33144
+928	Wilfrid Laurier University	CANADA	33104
+929	Pontificia Universidade Católica do Rio de Janeiro PUC-RIO	BRAZIL	33081
+930	Universidade Federal da Bahia	BRAZIL	33032
+931	Western Washington University	USA	32963
+932	Universidad de Costa Rica	COSTA RICA	32937
+933	Ernst Moritz Arndt Universität Greifswald	GERMANY	32878
+934	National Research University Higher School of Economics / Национальный исследовательский университет Высшая школа экономики	RUSSIA	32816
+935	Universidad de La Laguna	SPAIN	32808
+936	Sultan Qaboos University	OMAN	32787
+937	Wellesley College	USA	32721
+938	Yangzhou University / 扬州大学	CHINA	32711
+939	Desert Research Institute	USA	32697
+940	University of Pécs / Pécsi Tudományegyetem PTE	HUNGARY	32626
+941	Universidad Pública de Navarra	SPAIN	32615
+942	Hacettepe University	TURKEY	32609
+943	Williams College	USA	32583
+944	Jagiellonian University / Uniwersytet Jagielloński	POLAND	32576
+945	California State University Fresno	USA	32441
+946	University of Richmond	USA	32430
+947	Shanghai Ocean University (Shanghai Fisheries University) / 上海海洋大学	CHINA	32392
+948	University of Salford	UNITED KINGDOM	32361
+949	University of Rijeka	CROATIA	32253
+950	Bentley University	USA	32230
+951	Central Michigan University	USA	32154
+952	École des Hautes Etudes Commerciales de Paris HEC	FRANCE	32111
+953	University of Toyama / 富山大学	JAPAN	32103
+954	Federation University Australia	AUSTRALIA	32057
+955	Bournemouth University	UNITED KINGDOM	31989
+956	Doshisha University / 同志社大学	JAPAN	31976
+957	Nottingham Trent University	UNITED KINGDOM	31964
+958	Indian Institute of Technology Guwahati	INDIA	31821
+959	Wroclaw University / Uniwersytet Wrocławski	POLAND	31797
+960	Kwangwoon University / 광운대학교	SOUTH KOREA	31778
+961	Fuzhou University / 福州大学	CHINA	31760
+962	University of the Sunshine Coast	AUSTRALIA	31707
+963	Polytechnic Institute of New York University	USA	31633
+964	Weber State University	USA	31607
+965	Universität fur Bodenkultur Wien	AUSTRIA	31527
+966	Khalifa University	ARAB EMIRATES	31488
+967	University of Hyderabad	INDIA	31332
+968	Università Ca' Foscari di Venezia	ITALY	31319
+969	James Madison University	USA	31300
+970	Universidade Federal do Rio Grande do Norte	BRAZIL	31292
+971	Ankara University	TURKEY	31197
+972	University of Belgrade / Универзитет у Београду / Univerzitet u Beogradu	SERBIA	31027
+973	Università degli Studi di Bergamo	ITALY	31019
+974	Universidade Federal da Paraíba UFPB	BRAZIL	30915
+975	Toyota Technological Institute Chicago	USA	30886
+976	China University of Geosciences / 中国地质大学	CHINA	30823
+977	Karl Franzens Universität Graz	AUSTRIA	30790
+978	Rhodes University	SOUTH AFRICA	30776
+979	University of Ontario Institute of Technology	CANADA	30773
+980	ESSEC Business School	FRANCE	30737
+981	PRES Université Paris Est	FRANCE	30712
+982	Central European University Budapest / Közép-európai Egyetem	USA	30696
+983	École Centrale Paris	FRANCE	30650
+984	Reykjavik University / Háskólinn í Reykjavík	ICELAND	30559
+985	Collège de France	FRANCE	30551
+986	Osaka Prefecture University / 大阪府立大学	JAPAN	30475
+987	Loma Linda University	USA	30349
+988	Kingston University London	UNITED KINGDOM	30150
+989	Università degli Studi del Sannio	ITALY	30118
+990	Indian Institute of Technology (Banaras Hindu University) Varanasi	INDIA	30111
+991	University of Tulsa	USA	30085
+992	Northeast Normal University / 东北师范大学	CHINA	29956
+993	University of Agriculture Faisalabad	PAKISTAN	29800
+994	New School	USA	29765
+995	Linnaeus University / Linnéuniversitetet (Växjö + Kalmar Universities)	SWEDEN	29664
+996	Universidad Pablo de Olavide	SPAIN	29650
+997	Universidade do Algarve	PORTUGAL	29523
+998	Duquesne University	USA	29482
+999	Juntendo University / 順天堂大学	JAPAN	29481
+1000	University of Arkansas Little Rock	USA	29444
+1001	Third Military Medical University / 第三军医大学	CHINA	29423
+1002	Florida Gulf Coast University	USA	29407
+1003	Pontificia Universidade Católica do Paraná PUCPR	BRAZIL	29372
+1004	Universidad de los Andes Colombia	COLOMBIA	29359
+1005	Amirkabir University of Technology	IRAN	29215
+1006	Université de Tours François Rabelais	FRANCE	29121
+1007	University of Stavanger / Universitetet i Stavanger	NORWAY	29094
+1007	Grand Valley State University	USA	29094
+1009	National Chung Cheng University	TAIWAN	29076
+1010	University of Zagreb	CROATIA	29066
+1011	National Institute of Pharmaceutical Education and Research	INDIA	29020
+1012	University of Agder / Universitetet i Agder	NORWAY	28975
+1013	Dublin Institute of Technology	IRELAND	28905
+1014	Université Clermont-Ferrand 2 Blaise Pascal	FRANCE	28896
+1014	Kuwait University	KIWAIT	28896
+1016	Jamia Hamdard	INDIA	28888
+1017	Université de Perpignan Via Domitia	FRANCE	28836
+1018	Technische Universität Chemnitz	GERMANY	28827
+1019	Lulea University of Technology / Luleå tekniska Universitet	SWEDEN	28736
+1020	Università Campus Bio Medico di Roma	ITALY	28733
+1021	Chung Ang University / 중앙대학교	SOUTH KOREA	28676
+1022	Sharif University of Technology Tehran	IRAN	28566
+1023	Dokuz Eylül University	TURKEY	28485
+1024	Rowan University	USA	28414
+1025	Smith College	USA	28409
+1026	Bucknell University	USA	28399
+1027	National Yang Ming University	TAIWAN	28329
+1028	Korea Institute for Advanced Study / 고등과학원	SOUTH KOREA	28309
+1029	VIT University (Vellore Institute of Technology)	INDIA	28291
+1030	Saint Mary's University	CANADA	28277
+1031	Tokyo University of Agriculture and Technology / 東京農工大学	JAPAN	28195
+1032	Tunghai University	TAIWAN	28116
+1033	Chapman University	USA	28019
+1034	University of North Dakota	USA	28008
+1035	Universidade Federal do Ceará	BRAZIL	27924
+1036	Universidad de Concepción	CHILE	27891
+1037	King Saud University	SAUDI ARABIA	27799
+1038	Wroclaw University of Technology / Politechnika Wrocławska	POLAND	27793
+1039	Universidade Federal Fluminense	BRAZIL	27771
+1040	Université de Franche Comté	FRANCE	27711
+1041	Tarbiat Modares University	IRAN	27699
+1042	Creighton University	USA	27670
+1043	École des Hautes Études en Sciences Sociales	FRANCE	27625
+1044	Université Paris 9 Dauphine	FRANCE	27524
+1045	University of North Texas Health Science Center	USA	27492
+1046	Adelphi University	USA	27384
+1047	Lamar University	USA	27358
+1048	Niigata University / 新潟大学	JAPAN	27313
+1049	Norwegian School of Economics / Norges Handelshøyskole	NORWAY	27209
+1050	University of Colorado Colorado Springs	USA	27150
+1051	Northeast Ohio Medical University NEOMED	USA	27147
+1052	Université Toulouse 1 Capitole (Sciences Sociales)	FRANCE	27061
+1053	National University of Kaohsiung	TAIWAN	27002
+1054	University of Dayton	USA	26985
+1055	Stockholm School of Economics / Handelshögskolan i Stockholm	SWEDEN	26981
+1056	Universidad Simón Bolívar Venezuela	VENEZUELA	26900
+1057	Anna University	INDIA	26889
+1058	Fondazione Edmund Mach di San Michele all'Adige (Istituto Agrario)	ITALY	26879
+1059	Morgan State University	USA	26702
+1060	University of Southern Mississippi	USA	26697
+1061	Marquette University	USA	26675
+1062	Cairo University	EGYPT	26579
+1063	Jackson State University	USA	26574
+1064	Gifu University / 岐阜大学	JAPAN	26544
+1065	Universität Passau	GERMANY	26456
+1066	Kyushu Institute of Technology / 九州工業大学	JAPAN	26386
+1067	Nazarbayev University	KAZAKHSTAN	26382
+1068	Southern Illinois University Edwardsville	USA	26341
+1069	Università degli Studi del Molise	ITALY	26257
+1070	American University of Sharjah	ARAB EMIRATES	26195
+1071	Okinawa Institute of Science & Technology Graduate University / 沖縄科学技術大学院大学	JAPAN	26105
+1072	De Montfort University	UNITED KINGDOM	26058
+1073	San José State University	USA	26052
+1074	Coventry University	UNITED KINGDOM	26023
+1075	Huazhong (Central China) Normal University / 华中师范大学	CHINA	25812
+1076	Loyola Marymount University	USA	25808
+1077	Pace University	USA	25733
+1078	Indian Agricultural Research Institute	INDIA	25656
+1079	IT University of Copenhagen / IT-Universitetet i København	DENMARK	25536
+1080	Suffolk University	USA	25505
+1081	University of Maribor / Univerza v Mariboru	SLOVENIA	25489
+1082	University of Bedfordshire	UNITED KINGDOM	25330
+1083	National University of Defense Technology (National Defense University) / 国防科学技术大学 (国防科技大学)	CHINA	25268
+1084	Rollins College	USA	25254
+1085	University of Brighton	UNITED KINGDOM	25230
+1086	Università degli Studi della Basilicata	ITALY	25121
+1087	Université Paris 1 Panthéon Sorbonne	FRANCE	25029
+1088	Lincoln University Canterbury	NEW ZEALAND	24966
+1089	Zhejiang University of Sciences / 浙江理工大学	CHINA	24956
+1090	Bergische Universität Wuppertal	GERMANY	24928
+1091	Institute for Water Education UNESCO	NETHERLANDS	24908
+1092	California Polytechnic State University Cal Poly Pomona	USA	24895
+1093	Universidade Presbiteriana Mackenzie	BRAZIL	24811
+1094	Université de Technologie de Compiegne	FRANCE	24772
+1095	École Centrale de Nantes	FRANCE	24625
+1096	University of Nairobi	KENYA	24577
+1097	United States Naval Academy	USA	24508
+1098	Pontificia Universidade Católica de São Paulo PUC-SP	BRAZIL	24474
+1099	Gazi University	TURKEY	24425
+1100	United Arab Emirates University	ARAB EMIRATES	24359
+1101	Medical University of Warsaw / Warszawski Uniwersytet Medyczny	POLAND	24327
+1102	Montclair State University	USA	24274
+1103	University of Chinese Academy of Sciences / 中国科学院大学	CHINA	24259
+1104	Marshall University	USA	24256
+1105	Comenius University in Bratislava / Univerzita Komenského v Bratislave	SLOVAKIA	24217
+1106	ISCTE Instituto Universitário de Lisboa	PORTUGAL	24167
+1107	Colgate University	USA	24068
+1108	Università degli Studi di Teramo	ITALY	23965
+1109	Universidade Federal do Pará UFPA	BRAZIL	23935
+1110	Nagasaki University / 長崎大学	JAPAN	23931
+1111	China University of Geoscience Beijing / 中国地质大学 (北京)	CHINA	23900
+1112	Isfahan University of Medical Sciences	IRAN	23843
+1113	Bond University	AUSTRALIA	23817
+1114	École Centrale de Lille	FRANCE	23804
+1115	California State University Northridge	USA	23766
+1116	Universidad de la República	URUGUAY	23740
+1117	University of Central Lancashire	UNITED KINGDOM	23693
+1118	Beijing Forestry University / 北京林业大学	CHINA	23689
+1119	University of East London	UNITED KINGDOM	23673
+1120	Nagoya Institute of Technology / 名古屋工業大学	JAPAN	23654
+1121	University of Piraeus	GREECE	23641
+1122	University of North Florida	USA	23614
+1123	China Jiliang University / 中国计量学院	CHINA	23531
+1124	North West University	SOUTH AFRICA	23501
+1125	Mälardalen University / Mälardalens Högskola	SWEDEN	23338
+1126	Technische Universität Ilmenau	GERMANY	23311
+1127	Universidad Torcuato di Tella	ARGENTINA	23288
+1128	Middle Tennessee State University	USA	23286
+1129	Nottingham University Ningbo China / 宁波诺丁汉大学	CHINA	23221
+1130	University of Nebraska Omaha	USA	22991
+1131	University of South Dakota	USA	22901
+1132	Özyeğin University	TURKEY	22900
+1133	Universidade da Coruña	SPAIN	22896
+1134	Bharathiar University Coimbatore	INDIA	22833
+1135	Ritsumeikan University / 立命館大学	JAPAN	22817
+1136	Technische Universität Hamburg Harburg	GERMANY	22802
+1137	Institute of Tropical Medicine Antwerp	BELGIUM	22751
+1138	Universidade Estadual de Londrina	BRAZIL	22744
+1139	Japan Advanced Institute of Science & Technology / 北陸先端科学技術大学院大学	JAPAN	22725
+1140	École Centrale de Lyon	FRANCE	22708
+1141	Université Paris 13	FRANCE	22680
+1142	Chang Gung University	TAIWAN	22658
+1143	South China Normal University / 华南师范大学	CHINA	22552
+1144	King Abdulaziz University	SAUDI ARABIA	22528
+1145	Instituto Tecnológico de Aeronáutica ITA	BRAZIL	22503
+1146	Universidad Autónoma Metropolitana	MEXICO	22466
+1147	Lappeenranta University of Technology / Lappeenrannan teknillinen yliopisto	FINLAND	22403
+1148	Université du Québec Outaouais	CANADA	22384
+1149	Harbin Engineering University / 哈尔滨工程大学	CHINA	22352
+1150	University of the Aegean	GREECE	22318
+1151	Universidad de Almería	SPAIN	22312
+1152	Université de Cergy Pontoise	FRANCE	22257
+1153	American University in Cairo	EGYPT	22231
+1154	Lewis & Clark College	USA	22223
+1155	École Nationale des Ponts et Chaussees	FRANCE	22220
+1156	Democritus University of Thrace	GREECE	22198
+1157	National Chi Nan University	TAIWAN	22186
+1158	Konkuk University / 건국대학교	SOUTH KOREA	22163
+1159	University of Incheon / 인천대학교	SOUTH KOREA	22155
+1160	University of Aizu / 会津大学	JAPAN	22146
+1161	Nippon Medical School / 日本医科大学	JAPAN	22132
+1162	Université de Rouen	FRANCE	22106
+1163	Feng Chia University	TAIWAN	22086
+1164	Universidade Federal de Uberlândia	BRAZIL	22060
+1165	Shivaji University	INDIA	22037
+1166	University of North Carolina Wilmington	USA	22029
+1167	Universidad Nacional de Colombia	COLOMBIA	22015
+1168	Teesside University	UNITED KINGDOM	21988
+1169	National Dong Hwa University (Hualien University of Education)	TAIWAN	21940
+1170	University of Northern British Columbia	CANADA	21922
+1171	Embry Riddle Aeronautical University	USA	21885
+1172	University of Fukui / 福井大学	JAPAN	21864
+1173	Universidade Federal de Lavras UFLA	BRAZIL	21832
+1174	Towson University (Baltimore Hebrew University)	USA	21793
+1175	Université de Pau et des Pays de l'Adour	FRANCE	21786
+1176	Royal Military College Canada	CANADA	21749
+1177	Shizuoka University / 静岡大学	JAPAN	21681
+1178	University of Tanta	EGYPT	21677
+1179	Trinity University San Antonio	USA	21636
+1180	Hofstra University	USA	21603
+1181	Universidad Austral de Chile	CHILE	21528
+1182	University of Science & Technology Beijing / 北京科技大学	CHINA	21504
+1183	School of Oriental and African Studies University of London	UNITED KINGDOM	21459
+1184	Iran University of Science & Technology Tehran	IRAN	21410
+1184	Seattle University	USA	21410
+1186	Zhejiang Normal University / 浙江师范大学	CHINA	21342
+1187	Harokopio University of Athens	GREECE	21337
+1188	Southwest Jiaotong University / 西南交通大学	CHINA	21279
+1189	Aligarh Muslim University	INDIA	21224
+1190	Universidad de León	SPAIN	21204
+1191	Sheffield Hallam University	UNITED KINGDOM	21156
+1192	Agricultural University of Athens	GREECE	20982
+1193	University of the Western Cape	SOUTH AFRICA	20969
+1194	Blekinge Institute of Technology / Blekinge Tekniska Högskola	SWEDEN	20948
+1195	Mansoura University	EGYPT	20872
+1196	Tallinn University of Technology / Tallinna Tehnikaülikool	ESTONIA	20848
+1197	Alexandria University	EGYPT	20838
+1198	Firat University / Fýrat Üniversitesi	TURKEY	20771
+1199	Northwest A & F University / 西北农林科技大学	CHINA	20770
+1200	Willamette University	USA	20759
+1201	Osaka City University / 大阪市立大学	JAPAN	20743
+1202	Taegu University / 대구대학교	SOUTH KOREA	20720
+1203	Postgraduate Institute of Medical Education & Research Chandigarh	INDIA	20686
+1204	Masdar Institute of Science & Technology	ARAB EMIRATES	20643
+1205	Jiangnan University (Southern Yangtze University) / 江南大学	CHINA	20628
+1206	Istituto di studi avanzati di Lucca IMT	ITALY	20599
+1207	Saint John's University	USA	20536
+1208	Yerevan Physics Institute	ARMENIA	20447
+1209	University of Ruhuna	SRI LANKA	20446
+1210	Marmara University	TURKEY	20434
+1211	Libera Università Internazionale degli Studi Sociali Guido Carli LUISS	ITALY	20399
+1212	Shahid Beheshti University of Medical Sciences	IRAN	20350
+1213	Scottish Rural College (Scottish Agricultural College)	UNITED KINGDOM	20299
+1214	Cyprus University of Technology	CYPRUS	20291
+1215	Manipal University	INDIA	20284
+1216	Université du Maine Le Mans Laval	FRANCE	20251
+1217	College of Charleston	USA	20216
+1218	Hangzhou Normal University / 杭州师范大学	CHINA	20183
+1219	Kongju National University / 공주대학교	SOUTH KOREA	20158
+1220	Claremont Mckenna College	USA	20078
+1221	Institute of Mathematical Sciences	INDIA	20055
+1222	Yeungnam University / 영남대학교	SOUTH KOREA	19994
+1223	Donghua University / 东华大学	CHINA	19992
+1224	Jamia Millia Islamia	INDIA	19926
+1225	University of the Free State	SOUTH AFRICA	19795
+1226	California State University Dominguez Hills	USA	19746
+1227	Universitat Ramon Llull	SPAIN	19656
+1228	Universidad Nacional de Mar del Plata	ARGENTINA	19627
+1229	Ege University	TURKEY	19622
+1230	AGH University of Science & Technology / Akademia Górniczo-Hutnicza Stanisława Staszica w Krakowie	POLAND	19587
+1231	Anglia Ruskin University	UNITED KINGDOM	19578
+1232	Robert Gordon University	UNITED KINGDOM	19519
+1233	Université Jean Monnet Saint Etienne	FRANCE	19515
+1234	Kumoh National Institute of Technology / 금오공과대학교	SOUTH KOREA	19493
+1235	Saha Institute of Nuclear Physics	INDIA	19462
+1236	University of Malta	NALTA	19416
+1237	Zayed University	ARAB EMIRATES	19399
+1238	Mie University / 三重大学	JAPAN	19312
+1239	King Mongkut's University of Technology Thonburi	THAILAND	19227
+1240	Assiut University	EGYPT	19182
+1241	Athabasca University	CANADA	19142
+1242	Universidad de Antioquia	COLOMBIA	19127
+1243	Kinki University / 近畿大学	JAPAN	19102
+1244	University of Brunei Darussalam	BRUNEI	19096
+1245	AgroParisTech Institut des Sciences et Industries du Vivant et de l'Environnement	FRANCE	18988
+1246	Université de Caen Basse Normandie	FRANCE	18959
+1247	BI Norwegian Business School / Handelshøyskolen BI	NORWAY	18954
+1248	Paris School of Economics	FRANCE	18930
+1249	Zhejiang University of Technology / 浙江工业大学	CHINA	18876
+1250	South University of Science & Technology of China / 南方科技大学	CHINA	18863
+1251	University of San Francisco	USA	18860
+1252	Politecnico di Bari	ITALY	18802
+1253	International Max Planck Research School for Astronomy and Cosmic Physics at the University of Heidelberg	GERMANY	18759
+1254	Medizinische Universität Graz	AUSTRIA	18723
+1255	University of West Florida	USA	18637
+1256	Universidade Estadual do Norte Fluminense Darcy Ribeiro	BRAZIL	18635
+1257	Appalachian State University	USA	18592
+1258	TOBB Economics and Technology University	TURKEY	18555
+1259	Télécom SudParis Institut National des Telecommunications	FRANCE	18510
+1260	Franklin & Marshall College	USA	18500
+1261	Quaid-i-Azam University Islamabad	PAKISTAN	18467
+1262	University of Silesia in Katowice / Uniwersytet Śląski w Katowicach	POLAND	18446
+1263	University of the Philippines Diliman	PHILIPPINES	18439
+1264	Vilnius University / Vilniaus universitetas	LITHUANIA	18374
+1265	Gunma University / 群馬大学	JAPAN	18363
+1266	University of Tokushima / 徳島大学	JAPAN	18348
+1267	Sofia University St Kliment Ohridski / Софийски университет Св Климент Охридски	BULGARIA	18341
+1268	Centro de Investigación Científica y de Educación Superior de Ensenada	MEXICO	18322
+1269	Wichita State University	USA	18253
+1270	Siksha O Anusandhan University	INDIA	18193
+1271	Shinshu University / 信州大学	JAPAN	18163
+1272	University of Winnipeg	CANADA	18026
+1273	University of Medicine & Dentistry of New Jersey	USA	18004
+1274	Asian Institute of Technology Thailand	THAILAND	17988
+1275	Nagaoka University of Technology / 長岡技術科学大学	JAPAN	17852
+1276	Wakayama University / 和歌山大学	JAPAN	17847
+1277	University of San Diego	USA	17799
+1278	Air Force Institute of Technology	USA	17769
+1279	Tecnológico de Monterrey	MEXICO	17673
+1280	École Nationale Supérieure d'Ingénieurs de Caen	FRANCE	17641
+1281	Acadia University	CANADA	17639
+1282	Alexandru Ioan Cuza University	ROMANIA	17624
+1283	Université Paris-Est Créteil UPEC (Université Paris 12)	FRANCE	17589
+1284	Sophia University / 上智大学	JAPAN	17580
+1285	Atatürk University	TURKEY	17548
+1286	Université Laurentienne / Laurentian University	CANADA	17506
+1287	University of Northern Iowa	USA	17460
+1288	Middlebury College	USA	17406
+1289	Ehime University / 愛媛大学	JAPAN	17320
+1290	Universität Trier	GERMANY	17282
+1291	Université Savoie Mont Blanc	FRANCE	17259
+1292	Shiraz University of Medical Sciences	IRAN	17258
+1293	École Nationale Supérieure de Chimie de Paris	FRANCE	17235
+1294	University of Peradeniya	SRI LANKA	17230
+1295	Northwest University China / 西北大学	CHINA	17151
+1296	New Mexico Institute of Mining & Technology New Mexico Tech	USA	17089
+1297	Yazd University	IRAN	17032
+1298	University of New England Maine	USA	17003
+1299	Saint Francis Xavier University	CANADA	16999
+1299	University of South Bohemia / Jihočeská Univerzita v Českých Budějovicích	CEZCH REPUBLIC	16999
+1301	IESE Business School Universidad de Navarra	SPAIN	16978
+1302	Nanjing Medical University / 南京医科大学	CHINA	16972
+1303	Indian Institute of Science Education and Research Kolkata	INDIA	16961
+1303	Universidad de Cádiz	SPAIN	16961
+1305	Halmstad University / Högskolan i Halmstad	SWEDEN	16946
+1306	Kagawa University / 香川大学	JAPAN	16936
+1307	University of Shanghai for Science & Technology / 上海理工大学	CHINA	16935
+1308	Instituto Politécnico Nacional	MEXICO	16928
+1309	China University of Petroleum / 中国石油大学	CHINA	16908
+1310	National Changhua University of Education	TAIWAN	16905
+1311	École Nationale d'Ingénieurs de Tarbes	FRANCE	16889
+1312	University of Pune	INDIA	16856
+1313	State University of New York College of Environmental Science and Forestry	USA	16853
+1314	Universitas Gadjah Mada	INDONESIA	16809
+1315	Shahid Beheshti University Tehran	IRAN	16795
+1316	Università degli Studi di Cassino	ITALY	16792
+1317	Universidade Federal do Espírito Santo	BRAZIL	16763
+1318	Sree Chitra Tirunal Institute for Medical Sciences and Technology	INDIA	16749
+1319	Université de Technologie de Troyes	FRANCE	16746
+1320	Universidade Nove de Julho	BRAZIL	16732
+1321	Near East University / Yakın Doğu University		16714
+1322	Universidade da Beira Interior	PORTUGAL	16695
+1323	Universität Otto Friedrich Universität Bamberg	GERMANY	16691
+1324	Loyola University Maryland	USA	16666
+1325	Ariel University	ISRAEL	16652
+1326	Instituto Politécnico do Porto	PORTUGAL	16551
+1327	University of Akureyri / Háskólinn á Akureyri	ICELAND	16539
+1328	Haverford College	USA	16525
+1329	University of Texas Pan American	USA	16490
+1330	Universidad de Guanajuato	MEXICO	16449
+1331	Chongqing University of Posts & Telecommunications / 重庆邮电大学	CHINA	16435
+1332	Amherst College	USA	16432
+1333	Université du Québec Rimouski	CANADA	16355
+1334	Hong Kong Institute of Education	HONG KONG	16336
+1335	University of Bucharest	ROMANIA	16335
+1336	Adnan Menderes University	TURKEY	16326
+1337	Macau University of Science & Technology	MACAU	16298
+1338	University Politechnica of Bucharest / Universitatea Politehnica din Bucuresti	ROMANIA	16238
+1338	Canisius College	USA	16238
+1340	University of Anatolia / Anadolu Üniversitesi	TURKEY	16235
+1341	Dublin Institute For Advanced Studies	IRELAND	16195
+1342	University of Wisconsin Oshkosh	USA	16113
+1343	University of Scranton	USA	16074
+1344	Shiraz University	IRAN	16031
+1345	Humboldt State University	USA	15996
+1346	Malmo University / Malmö högskola	SWEDEN	15989
+1347	University of Saint Thomas Saint Paul	USA	15933
+1348	Christian Medical College Vellore	INDIA	15874
+1349	Pamukkale University	TURKEY	15858
+1350	Universidade Federal de Campina Grande	BRAZIL	15786
+1351	Gonzaga University	USA	15784
+1352	University of Tennessee Chattanooga	USA	15744
+1353	Bowdoin College	USA	15724
+1354	Thapar University (Thapar Institute of Engineering & Technology)	INDIA	15668
+1355	Université de Limoges	FRANCE	15614
+1356	University of Latvia / Latvijas Universitāte Riga	LATVIA	15611
+1357	Universidad de los Andes Mérida	VENEZUELA	15593
+1358	University of the West of Scotland (University of Paisley)	UNITED KINGDOM	15570
+1359	Universidade Federal do Rio Grande FURG	BRAZIL	15569
+1360	Télécom Bretagne École Nationale Supérieure des Telecommunications de Bretagne	FRANCE	15535
+1361	Howard University	USA	15530
+1362	Selçuk University	TURKEY	15481
+1363	Universität der Bundeswehr München	GERMANY	15477
+1364	Chung Hua University	TAIWAN	15460
+1365	Universidade Federal de Ouro Preto UFOP	BRAZIL	15403
+1366	Université de Valenciennes et du Hainaut Cambresis	FRANCE	15386
+1367	Petroleum Institute Abu Dhabi	ARAB EMIRATES	15365
+1368	Universiti Malaysia Sarawak	MALAYSIA	15302
+1369	Swarthmore College	USA	15294
+1370	Kangwon National University (Samcheok National University) / 강원대학교	SOUTH KOREA	15292
+1371	Acibadem University	TURKEY	15272
+1371	Albany Medical College	USA	15272
+1373	Cape Breton University	CANADA	15240
+1374	Scottish Association for Marine Science	UNITED KINGDOM	15239
+1375	Chubu University / 中部大学	JAPAN	15223
+1376	Dankook University / 단국대학교	SOUTH KOREA	15191
+1377	Ferdowsi University of Mashhad	IRAN	15179
+1378	Vassar College	USA	15162
+1379	Rosalind Franklin University of Medicine and Science	USA	15156
+1380	University of Sunderland	UNITED KINGDOM	15155
+1381	University of Miyazaki / 宮崎大学	JAPAN	15138
+1382	National Yunlin University of Science & Technology	TAIWAN	15129
+1383	École Nationale Supérieure des Arts et Métiers ENSAM	FRANCE	15125
+1384	Universiti Teknologi MARA / MARA University of Technology	MALAYSIA	15124
+1385	University of International Business & Economics / 对外经济贸易大学	CHINA	15119
+1386	University of Wisconsin Eau Claire	USA	15116
+1387	Edge Hill University	UNITED KINGDOM	15101
+1388	Fachhochschule Nordwestschweiz	SWITZERLAND	15082
+1389	University of Nigeria	NIGERIA	15076
+1390	Palacký University / Univerzita Palackého v Olomouci	CEZCH REPUBLIC	15044
+1391	Université Toulouse II Le Mirail	FRANCE	15033
+1392	China Medical University Taiwan	TAIWAN	14996
+1392	A T Still University	USA	14996
+1394	University of Vaasa / Vaasan yliopisto	FINLAND	14962
+1395	Graduate Institute of International Studies Geneva	SWITZERLAND	14942
+1396	Universidade Estadual de Feira de Santana UEFS	BRAZIL	14933
+1397	Mount Allison University	CANADA	14892
+1398	East Tennessee State University	USA	14882
+1399	Universidade de Évora	PORTUGAL	14842
+1400	Universidad Adolfo Ibáñez	CHILE	14832
+1401	Korea Aerospace University (Hankuk Aviation University) / 한국항공대학	SOUTH KOREA	14828
+1402	Óbuda University (Budapest Polytechnic) / Óbudai Egyetem	HUNGARY	14821
+1403	Suranaree University of Technology	THAILAND	14807
+1404	Gachon University	SOUTH KOREA	14754
+1405	University of Tabriz	IRAN	14748
+1406	ESCP Europe Business School		14747
+1407	Adam Mickiewicz University Poznan / Uniwersytet Adama Mickiewicza w Poznaniu	POLAND	14741
+1408	University of Novi Sad / Универзитет у Новом Саду / Univerzitet u Novom Sadu	SERBIA	14740
+1409	University of Gloucestershire	UNITED KINGDOM	14738
+1410	Capital Normal University / 首都师范大学	CHINA	14700
+1411	Université du Sud Toulon Var	FRANCE	14659
+1412	Hankuk University of Foreign Studies / 한국외국어대학교	SOUTH KOREA	14657
+1413	College of the Holy Cross	USA	14644
+1414	Universidad de Burgos	SPAIN	14613
+1415	Pontificia Universidad Javeriana	COLOMBIA	14574
+1416	Khaje-Nassir-Toosi University of Technology	IRAN	14556
+1417	University of South Africa	SOUTH AFRICA	14535
+1418	Çukurova University	TURKEY	14530
+1419	University of Macedonia	GREECE	14510
+1420	Université de Picardie Jules Verne	FRANCE	14500
+1421	University of Damman	SAUDI ARABIA	14438
+1422	Konan University / 甲南大学	JAPAN	14384
+1423	Drake University	USA	14331
+1424	West Chester University of Pennsylvania	USA	14323
+1425	Chungbuk National University / 충북대학교	SOUTH KOREA	14289
+1426	Brno University of Technology / Vysoké Učení Technické v Brně	CEZCH REPUBLIC	14275
+1427	Istituto Dalle Molle di Studi sull'Intelligenza Artificiale	SWITZERLAND	14272
+1428	Napier University Edinburgh	UNITED KINGDOM	14232
+1429	Punjab Agricultural University Ludhiana	INDIA	14212
+1430	Universidad de Huelva	SPAIN	14190
+1431	Universidad Autónoma de San Luis Potosí	MEXICO	14175
+1432	Durban University of Technology	SOUTH AFRICA	14157
+1433	Universidade Federal de Juiz de Fora UFJF	BRAZIL	14145
+1434	Saint Petersburg State University / Санкт Петербургский государственный университет	RUSSIA	14120
+1435	Yanshan University / 燕山大学	CHINA	14103
+1436	University of Baltimore	USA	14041
+1437	Vilnius Gediminas Technical University / Vilniaus Gedimino technikos universitetas	LITHUANIA	14033
+1438	Université du Québec Trois-Rivieres	CANADA	14022
+1439	Aoyama Gakuin University / 青山学院大学	JAPAN	14003
+1440	Meiji University / 明治大学	JAPAN	13981
+1441	Panjab University	INDIA	13976
+1442	Arkansas State University	USA	13975
+1443	University of South Wales (Glamorgan & Wales Newport)	UNITED KINGDOM	13969
+1444	Grenoble École de Management	FRANCE	13958
+1445	Jordan University of Science & Technology	JORDAN	13939
+1446	Universidad Nacional del Litoral	ARGENTINA	13921
+1447	Yokohama City University / 横浜市立大学	JAPAN	13901
+1448	University of Prince Edward Island	CANADA	13898
+1448	École Nationale Supérieure des Mines de Saint Étienne	FRANCE	13898
+1450	Universidade de Tras os Montes e Alto Douro	PORTUGAL	13897
+1451	Universidad Politécnica de Cartagena	SPAIN	13834
+1452	California State University San Bernardino	USA	13833
+1453	Mid-Sweden University / Mittuniversitetet	SWEDEN	13832
+1454	National Taipei University of Technology	TAIWAN	13809
+1455	Ain Shams University	EGYPT	13780
+1456	The Graduate University for Advanced Studies / 総合研究大学院大学	JAPAN	13777
+1457	Kenyatta University	KENYA	13725
+1458	Universidade Cruzeiro do Sul	BRAZIL	13709
+1458	Cochin University of Science & Technology	INDIA	13709
+1460	Institute of Technology Bandung	INDONESIA	13651
+1461	Hongik University / 홍익대학교	SOUTH KOREA	13646
+1462	Hunan University of Science & Technology / 湖南科技大学	CHINA	13563
+1463	Technological Education Institute of Crete	GREECE	13561
+1464	Helmut Schmidt Universität	GERMANY	13503
+1465	University of Texas Tyler	USA	13493
+1465	Bard College	USA	13493
+1467	De La Salle University Manila	PHILIPPINES	13442
+1468	Università degli Studi di Napoli Parthenope (Istituto Universitario Navale)	ITALY	13439
+1469	Hope College	USA	13424
+1470	Pomona College	USA	13377
+1471	İstanbul Medeniyet Üniversitesi	TURKEY	13364
+1472	Midwestern University	USA	13362
+1473	Myongji University / 명지대학교	SOUTH KOREA	13330
+1474	International Institute of Information Technology Hyderabad	INDIA	13317
+1475	New York Institute of Technology	USA	13315
+1476	Université de Versailles Saint Quentin en Yvelines	FRANCE	13257
+1477	FernUniversität in Hagen	GERMANY	13245
+1478	Tokyo Denki University / 東京電機大学	JAPAN	13223
+1479	University of Burdwan	INDIA	13199
+1480	Ball State University	USA	13179
+1481	Harvey Mudd College	USA	13145
+1482	Universidad Andrés Bello	CHILE	13132
+1483	Texas A&M University Commerce	USA	13126
+1484	Bangladesh University of Engineering and Technology	BANGLADESH	13122
+1485	Akdeniz University	TURKEY	13118
+1486	University of Kashan	IRAN	13115
+1487	Amrita University	INDIA	13112
+1488	Multimedia University	MALAYSIA	13074
+1489	Universiti Teknologi Petronas	MALAYSIA	13065
+1490	Union College Schenectady NY	USA	13064
+1491	Université de Reims Champagne Ardenne	FRANCE	13036
+1492	Inje University / 인제대학교	SOUTH KOREA	13033
+1493	Soongsil University / 숭실대학교	SOUTH KOREA	13019
+1494	University of Ryukyus / 琉球大学	JAPAN	13007
+1495	Universiti Tunku Abdul Rahman	MALAYSIA	12991
+1496	National Taras Shevchenko University of Kyiv (Kiev)	UKRAINE	12959
+1497	London South Bank University	UNITED KINGDOM	12942
+1498	University of Sharjah	ARAB EMIRATES	12937
+1499	Inter-University Centre for Astronomy and Astrophysics	INDIA	12932
+1500	Eskişehir Osmangazi University	TURKEY	12913
+1501	Universidade dos Açores	PORTUGAL	12890
+1502	Université Bordeaux	FRANCE	12833
+1503	EDHEC Business School	FRANCE	12821
+1504	Institut National des Sciences Appliquées de Toulouse	FRANCE	12682
+1505	Yale NUS College	SINGAPORE	12661
+1506	California State University East Bay	USA	12660
+1507	California State University Sacramento / Sacramento State	USA	12655
+1508	Kagoshima University / 鹿児島大学	JAPAN	12654
+1509	Suleyman Demirel University Turkey	TURKEY	12637
+1510	Seoul National University of Science & Technology / 서울과학기술대학교	SOUTH KOREA	12570
+1511	University of Wisconsin Whitewater	USA	12546
+1512	Leeds Beckett University (Leeds Metropolitan University)	UNITED KINGDOM	12536
+1513	Kaohsiung Medical University	TAIWAN	12529
+1514	Gdansk University of Technology / Politechnika Gdańska	POLAND	12484
+1515	Chang'an University / 长安大学	CHINA	12465
+1516	Universidad Nacional del Centro de la Provincia de Buenos Aires	ARGENTINA	12413
+1517	Eastern Michigan University	USA	12402
+1518	University of Calcutta	INDIA	12389
+1519	Henan University / 河南大学	CHINA	12386
+1520	Bradley University	USA	12381
+1521	Indian Institute of Space Science & Technology	INDIA	12361
+1522	Jönköping University / Högskolan i Jönköping	SWEDEN	12350
+1523	Missouri State University	USA	12349
+1524	Mashhad University of Medical Sciences	IRAN	12336
+1525	Seattle Pacific University	USA	12304
+1526	Jazan University	SAUDI ARABIA	12288
+1527	Karadeniz Technical University	TURKEY	12275
+1528	Université Pierre Mendes Grenoble 2	FRANCE	12259
+1529	William Paterson University of New Jersey	USA	12236
+1530	University of Colombo	SRI LANKA	12219
+1531	Izmir Institute of Technology / İzmir Yüksek Teknoloji Enstitüsü	TURKEY	12191
+1532	University of Jinan / 济南大学	CHINA	12190
+1533	Università degli Studi di Foggia	ITALY	12177
+1534	Kyiv National Economic University Vadym Hetman / Київський нацiональний економiчний унiверситет	UKRAINE	12174
+1535	Colegio de la Frontera Sur	MEXICO	12138
+1536	Universidad Industrial de Santander	COLOMBIA	12131
+1537	Université d'Orléans	FRANCE	12123
+1538	Fayetteville State University	USA	12113
+1539	Xi'An Jiaotong-Liverpool University / 西交利物浦大学	CHINA	12109
+1540	Université de Bretagne Sud	FRANCE	12098
+1541	Istanbul Medipol University	TURKEY	12080
+1542	Universidad Nacional de San Martín Argentina	ARGENTINA	12079
+1543	Universiti Malaysia Sabah	MALAYSIA	12064
+1544	Sumy State University	UKRAINE	12021
+1545	University of Skovde / Högskolan i Skövde	SWEDEN	11948
+1546	Universidade Federal do Amazonas UFAM	BRAZIL	11939
+1546	College of Wooster	USA	11939
+1548	Xiangtan University / 湘潭大学	CHINA	11934
+1549	Benemérita Universidad Autónoma de Puebla	MEXICO	11926
+1550	Universidad de Santiago de Chile	CHILE	11894
+1551	Universität Witten Herdecke	GERMANY	11890
+1552	University Politechnica of Timisoara	ROMANIA	11874
+1553	Université d'Artois	FRANCE	11846
+1554	Yildiz Technical University / Yıldız Teknik Üniversitesi	TURKEY	11836
+1555	Jikei University School of Medicine / 東京慈恵会医科大学	JAPAN	11829
+1556	University of Zielona Góra / Uniwersytet Zielonogórski	POLAND	11817
+1557	École Nationale Supérieure de Techniques Avancees	FRANCE	11808
+1558	Zhengzhou University / 郑州大学	CHINA	11794
+1559	Reed College	USA	11740
+1560	Long Island University	USA	11715
+1561	Sanjay Gandhi Postgraduate Institute of Medical Sciences	INDIA	11705
+1562	Macalester College	USA	11704
+1563	Universidade de Franca UNIFRAN	BRAZIL	11701
+1564	Sakarya University	TURKEY	11677
+1565	Shimane University / 島根大学	JAPAN	11674
+1566	Indraprastha Institute of Information Technology Delhi	INDIA	11625
+1567	Texas A&M University Corpus Christi	USA	11624
+1568	Bahçeşehir University	TURKEY	11606
+1569	National Taipei University	TAIWAN	11598
+1570	Centro de Investigación y Docencia Económicas	MEXICO	11577
+1571	National Institute of Technology Rourkela	INDIA	11566
+1572	Université Cadi Ayyad Marrakech	MOROCCO	11549
+1573	Universidad Autónoma de Nuevo León	MEXICO	11539
+1574	Universidade Estadual de Ponta Grossa UEPG	BRAZIL	11518
+1575	Università degli Studi Mediterranea di Reggio Calabria	ITALY	11511
+1576	Veterinarmedizinische Universität Wien	AUSTRIA	11498
+1577	Institut National des Sciences Appliquées de Rennes	FRANCE	11441
+1578	Nihon University / 日本大学	JAPAN	11438
+1579	University of the South Pacific	FIJI	11436
+1580	Kazan (Volga Region) Federal University / Kазанский (приволжский) Федеральный Университет	RUSSIA	11428
+1581	Universidad de Colima	MEXICO	11389
+1582	University of Kelaniya	SRI LANKA	11367
+1583	Universidad Central de Venezuela	VENEZUELA	11357
+1584	Silesian University of Technology in Gliwice / Politechnika Śląska w Gliwicach	POLAND	11349
+1585	Universidad de Guadalajara	MEXICO	11317
+1586	Shanxi University / 山西大学	CHINA	11316
+1587	Pondicherry University	INDIA	11281
+1588	Tezpur University	INDIA	11273
+1589	University of Mysore	INDIA	11242
+1590	Jeju National University (Cheju) / 제주대학교	SOUTH KOREA	11220
+1591	Birmingham City University (University of Central England)	UNITED KINGDOM	11171
+1592	University of Nottingham Malaysia	MALAYSIA	11142
+1593	China Europe International Business School / 中欧国际工商学院	CHINA	11101
+1594	Delaware State University	USA	11094
+1595	University of Madras	INDIA	11063
+1596	Universitatea Tehnica din Cluj-Napoca (North University of Baia Mare)	ROMANIA	11057
+1597	Brandenburgische Technische Universität Cottbus	GERMANY	11049
+1598	Gebze Institute of Technology / Gebze Yüksek Teknoloji Enstitüsü	TURKEY	11045
+1599	University of Chester	UNITED KINGDOM	11041
+1600	National Graduate Institute for Policy Studies / 政策研究大学院大学	JAPAN	11014
+1601	Bharathidasan University	INDIA	11009
+1602	Henan Polytechnic University / 河南理工大学	CHINA	10993
+1603	University of Dhaka	BANGLADESH	10970
+1604	Calvin College	USA	10958
+1605	Cork Institute of Technology	IRELAND	10944
+1606	Universidade Federal Rural do Rio de Janeiro UFRRJ	BRAZIL	10928
+1607	COMSATS Institute of Information Technology Islamabad	PAKISTAN	10903
+1608	University of Ibadan	NIGERIA	10867
+1609	Nipissing University	CANADA	10857
+1610	Nanjing University of Information Science & Technology (ex-Institute of Meteorology) / 南京信息工程大学	CHINA	10846
+1611	Taif University	SAUDI ARABIA	10814
+1611	Chosun University / 조선대학교	SOUTH KOREA	10814
+1613	Gyeongsang National University / 경상대학교	SOUTH KOREA	10775
+1614	Kasetsart University	THAILAND	10770
+1615	Beni Suef University	EGYPT	10765
+1616	Yeditepe University	TURKEY	10763
+1617	Muğla Sıtkı Koçman University	TURKEY	10753
+1618	Ithaca College	USA	10747
+1619	National Institute of Technology Tiruchirappalli	INDIA	10736
+1620	Yamagata University / 山形大学	JAPAN	10707
+1621	Universidade Tecnológica Federal do Paraná UTFRP	BRAZIL	10706
+1622	Medical University of Gdansk / Gdański Uniwersytet Medyczny	POLAND	10705
+1623	Pontificia Universidad Católica del Perú	PERU	10673
+1624	Université d'Avignon et des Pays de Vaucluse	FRANCE	10646
+1624	Mount Holyoke College	USA	10646
+1626	National Nuclear Research University (Moscow State Engineering Physics Institute) / Национальный исследовательский ядерный университет МИФИ	RUSSIA	10620
+1627	John Carroll University	USA	10618
+1628	University of Nordland / Universitetet i Nordland (Bodo Regional University / Høgskolen i Bodø)	NORWAY	10616
+1629	Universitas Indonesia	INDONESIA	10612
+1630	Colorado College	USA	10600
+1631	Institute for Advanced Study	USA	10591
+1632	Université Paris Ouest Nanterre La Défense (Paris X)	FRANCE	10567
+1633	Hertie School of Governance	GERMANY	10541
+1634	Universiti Malaysia Perlis	MALAYSIA	10523
+1635	Indian Institute of Technology Hyderabad	INDIA	10513
+1636	College of New Jersey	USA	10504
+1637	Instituto Politécnico de Lisboa	PORTUGAL	10491
+1638	Universiti Malaysia Pahang	MALAYSIA	10468
+1639	İnönü University Malatya	TURKEY	10456
+1640	Faculdade de Medicina de São José do Rio Preto FAMERP	BRAZIL	10451
+1641	Roosevelt University	USA	10444
+1642	University of the Pacific	USA	10443
+1643	Universidade Federal de Ciências da Saúde de Porto Alegre UFCSPA	BRAZIL	10416
+1644	Thammasat University	THAILAND	10410
+1645	Université de Moncton	CANADA	10395
+1646	Motilal Nehru National Institute of Technology	INDIA	10390
+1647	Lafayette College	USA	10383
+1648	Université de la Réunion	FRANCE	10379
+1649	South Dakota School of Mines & Technology	USA	10361
+1650	Sang Myung University / 상명대학교	SOUTH KOREA	10345
+1651	Bryn Mawr College	USA	10315
+1652	École Nationale Supérieure des Ingénieurs en Arts Chimiques et Technologiques	FRANCE	10312
+1653	Abant Izzet Baysal University	TURKEY	10308
+1654	Universidade São Francisco	BRAZIL	10290
+1655	Université Paris East Marne la Vallée	FRANCE	10250
+1656	National Brain Research Centre	INDIA	10247
+1657	Keck Graduate Institute	USA	10242
+1658	Alfaisal University	SAUDI ARABIA	10212
+1659	Evergreen State College	USA	10207
+1660	University of Abertay	UNITED KINGDOM	10180
+1661	Bezm-i Alem University / Bezmiâlem Vakıf Üniversitesi	TURKEY	10152
+1662	Southeastern Louisiana University	USA	10145
+1663	Toho University / 東邦大学	JAPAN	10129
+1664	Université Charles de Gaulle Lille 3	FRANCE	10127
+1665	Universidade Federal de Mato Grosso do Sul	BRAZIL	10112
+1666	Lahore University of Management Sciences	PAKISTAN	10103
+1667	Universidade Federal do Pampa UNIPAMPA	BRAZIL	10101
+1668	Citadel Military College of South California	USA	10091
+1669	Ilia State University	GEORGIA	10088
+1670	Ostrava University / Ostravská Univerzita v Ostravě	CEZCH REPUBLIC	10068
+1671	École Nationale Supérieure d'Électrotechnique d'Électronique d'Informatique d'Hydraulique et des Telecommunications	FRANCE	10060
+1672	Universidad Autónoma del Estado de Morelos	MEXICO	10048
+1673	King Mongkut's Institute of Technology Ladkrabang	THAILAND	10037
+1674	Universidade do Extremo Sul Catarinense UNESC	BRAZIL	10025
+1675	Lublin University of Technology / Politechnika Lubelska	POLAND	10010
+1676	Uludağ University	TURKEY	9989
+1677	Kocaeli University	TURKEY	9988
+1678	Hamamatsu University School of Medicine / 浜松医科大学	JAPAN	9978
+1679	Oberlin College	USA	9970
+1680	National University of Tainan	TAIWAN	9954
+1681	Eastern Mediterranean University		9944
+1682	Tabriz University of Medical Sciences and Health Services	IRAN	9943
+1683	Kadir Has University	TURKEY	9941
+1684	Universidad Autónoma del Estado de Hidalgo	MEXICO	9907
+1685	Shri Mata Vaishno Devi University	INDIA	9901
+1686	Universidad de Valparaíso	CHILE	9897
+1687	Shanghai University of Finance & Economics / 上海财经大学	CHINA	9894
+1687	Visva Bharati University	INDIA	9894
+1689	University of West Bohemia (Vysoká Škola v Plzni) / Západočeská Univerzita v Plzni	CEZCH REPUBLIC	9867
+1690	École des Mines de Nantes	FRANCE	9838
+1691	Colby College	USA	9835
+1692	Sodertorns University College / Södertörns högskola	SWEDEN	9829
+1693	University of Winchester	UNITED KINGDOM	9819
+1694	Universidade Guarulhos UNG	BRAZIL	9815
+1695	Conservatoire National des Arts et Métiers	FRANCE	9811
+1696	Fujian Normal University / 福建师范大学	CHINA	9802
+1697	Kansai University / 関西大学	JAPAN	9767
+1698	Saratov State University / Саратовский государственный университет	RUSSIA	9766
+1699	Cumhuriyet University	TURKEY	9755
+1700	Ibaraki University / 茨城大学	JAPAN	9754
+1701	Pakistan Institute of Engineering & Applied Sciences Islamabad	PAKISTAN	9740
+1702	Tuskegee University	USA	9734
+1703	Gülhane Military Medical Academy / Gülhane Askeri Tıp Akademisi	TURKEY	9733
+1704	S R M University (Institute of Science & Technology)	INDIA	9718
+1705	Birla Institute of Technology & Science Pilani	INDIA	9708
+1706	University of Derby	UNITED KINGDOM	9701
+1707	Ondokuz Mayýs University	TURKEY	9699
+1708	Universidad Michoacana de San Nicolás de Hidalgo	MEXICO	9689
+1709	Universidad Nacional de Tucumán	ARGENTINA	9684
+1710	Gettysburg College	USA	9678
+1711	Universiti Tenaga Nasional	MALAYSIA	9660
+1712	Nanjing University / 南京工业大学	CHINA	9623
+1713	Open University of Israel	ISRAEL	9605
+1714	Fourth Military Medical University / 第四军医大学	CHINA	9601
+1715	Technical University of Košice / Technická univerzita v Košiciach	SLOVAKIA	9560
+1716	Saitama University / 埼玉大学	JAPAN	9550
+1717	London Metropolitan University	UNITED KINGDOM	9489
+1718	Benha University	EGYPT	9472
+1719	Gaziantep University	TURKEY	9461
+1720	University of Illinois Springfield	USA	9453
+1721	Centro Agronómico Tropical de Investigación y Enseñanza	COSTA RICA	9445
+1722	Universidad Fundación San Pablo CEU	SPAIN	9426
+1723	West University of Timisoara	ROMANIA	9420
+1724	Ngee Ann Polytechnic	SINGAPORE	9418
+1725	University College of Boras / Högskolan i Borås	SWEDEN	9396
+1726	University of Peloponnese	GREECE	9375
+1726	Vidyasagar University	INDIA	9375
+1726	Naresuan University	THAILAND	9375
+1729	International and European Business School Lyon	FRANCE	9364
+1730	Glyndŵr University	UNITED KINGDOM	9359
+1731	Bates College	USA	9353
+1732	Mersin University	TURKEY	9350
+1733	Indian Institute of Science Education and Research, Mohali	INDIA	9347
+1734	Najran University	SAUDI ARABIA	9344
+1735	Toyohashi University of Technology / 豊橋科学技術大学	JAPAN	9336
+1736	Universidad del Rosario	COLOMBIA	9335
+1737	Western Carolina University	USA	9311
+1738	Kean University	USA	9280
+1739	Universidade Estadual do Ceará	BRAZIL	9262
+1740	Hellenic Open University	GREECE	9231
+1741	Universidad Veracruzana	MEXICO	9210
+1742	Northern Kentucky University	USA	9205
+1743	Başkent University	TURKEY	9204
+1744	International Medical University	MALAYSIA	9200
+1745	Shiv Nadar University	INDIA	9189
+1746	Universidad Autónoma de Yucatán	MEXICO	9164
+1747	University of Guilan	IRAN	9146
+1748	University of Allahabad	INDIA	9139
+1749	Nelson Mandela Metropolitan University	SOUTH AFRICA	9108
+1750	University of Nova Gorica / Univerza v Novi Gorici	SLOVENIA	9101
+1751	ITMO University / Университет ИТМО	RUSSIA	9080
+1752	Universidade Federal de Sergipe UFS	BRAZIL	9067
+1753	Damietta University	EGYPT	9045
+1754	Indian School of Business Hyderabad	INDIA	9030
+1755	Ming Chi University of Technology	TAIWAN	9023
+1756	Saint Mary's University San Antonio Texas	USA	9016
+1757	Hosei University / 法政大学	JAPAN	9015
+1758	Universidad Nacional del Sur	ARGENTINA	9001
+1759	Fatih University / Fatih Üniversitesi	TURKEY	8999
+1760	Yamaguchi University / 山口大学	JAPAN	8995
+1761	National Ilan University	TAIWAN	8938
+1762	Zagazig University	EGYPT	8935
+1762	University of New Haven	USA	8935
+1764	Groupe Esiee Paris École Supérieure d'Ingénieurs	FRANCE	8917
+1765	Hasso Plattner Institute	GERMANY	8916
+1766	Lebanese American University	LEBANON	8838
+1767	Universidad de La Rioja	SPAIN	8792
+1768	Annamalai University	INDIA	8789
+1769	Sardar Vallabhbhai National Institute of Technology Surat	INDIA	8776
+1770	Fukuoka University / 福岡大学	JAPAN	8764
+1771	Indian Institute of Technology Indore	INDIA	8759
+1772	University of Karachi	PAKISTAN	8740
+1773	Cardiff Metropolitan University (University of Wales Institute Cardiff)	UNITED KINGDOM	8739
+1774	University of Notre Dame Australia	AUSTRALIA	8723
+1775	Fujita Health University / 藤田保健衛生大学	JAPAN	8718
+1776	Universidad de Deusto Deustuko Unibertsitatea	SPAIN	8703
+1777	University of Northern Colorado	USA	8696
+1778	Universidad de la Serena	CHILE	8695
+1779	Umm Al Qura University	SAUDI ARABIA	8687
+1780	Instituto Tecnológico Autónomo de México	MEXICO	8682
+1781	Oslo and Akershus University College of Applied Sciences / Høgskolen i Oslo og Akershus	NORWAY	8680
+1782	Islamic University Kushtia	BANGLADESH	8667
+1782	Kharazmi University (Tarbiat Moallem University Tehran)	IRAN	8667
+1784	High Point University	USA	8660
+1785	Sonoma State University	USA	8648
+1786	Kansas City University of Medicine and Biosciences	USA	8626
+1787	Corvinus University of Budapest / Budapesti Corvinus Egyetem BCE	HUNGARY	8624
+1788	California State University Los Angeles	USA	8600
+1789	Iran Polymer and Petrochemical Institute	IRAN	8599
+1790	University of Niš / Универзитет у Нишу / Univezitet u Nišu	SERBIA	8598
+1791	Khon Kaen University	THAILAND	8592
+1792	Hanbat National University / 한밭대학교	SOUTH KOREA	8588
+1793	University of Wisconsin Stevens Point	USA	8586
+1794	University of Isfahan	IRAN	8575
+1795	Szent István University / Szent István Egyetem SZIE	HUNGARY	8538
+1796	İstanbul MEF Üniversitesi	TURKEY	8534
+1797	Dicle University	TURKEY	8511
+1798	Gaziosmanpaşa University	TURKEY	8506
+1799	Chung Yuan Christian University	TAIWAN	8503
+1800	Universidade Católica de Brasilia	BRAZIL	8479
+1801	Bu Ali Sina University Hamedan	IRAN	8461
+1801	Soka University / 創価大学	JAPAN	8461
+1803	Technical University of Ostrava / Vysoká Škola Báňská Technická Univerzita Ostrava	CEZCH REPUBLIC	8427
+1804	Shahid Bahonar University of Kerman	IRAN	8424
+1805	Instituto Politécnico de Bragança	PORTUGAL	8413
+1806	Università di Corsica Pasquale Paoli / Université de Corse Pascal Paoli	FRANCE	8412
+1807	Cooper Union for the Advancement of Science and Art	USA	8401
+1808	Université de Haute Alsace Mulhouse	FRANCE	8378
+1809	Anhui University / 安徽大学	CHINA	8371
+1810	Saint Michael's College	USA	8359
+1811	University of Medicine and Pharmacy Iuliu Hatieganu Cluj Napoca	ROMANIA	8340
+1812	University of Evansville	USA	8332
+1813	Tokai University / 東海大学	JAPAN	8311
+1814	Saint Joseph's University	USA	8302
+1815	Namik Kemal University	TURKEY	8283
+1816	University of Central Arkansas	USA	8248
+1817	University of Khartoum	SUDAN	8241
+1818	Delhi Technological University (Delhi College of Engineering)	INDIA	8229
+1819	Osmania University Hyderabad	INDIA	8218
+1820	Saga University / 佐賀大学	JAPAN	8215
+1821	Indian Institute of Technology Bhubaneswar	INDIA	8209
+1822	Université de Sfax	TUNISIA	8202
+1823	Menzies School of Health Research	AUSTRALIA	8201
+1824	Université du Québec Chicoutimi	CANADA	8172
+1825	Bergen University College / Høgskolen i Bergen	NORWAY	8170
+1826	Shanghai Normal University / 上海师范大学	CHINA	8147
+1827	Universitat Oberta de Catalunya	SPAIN	8146
+1828	Pontificia Universidade Católica do Campinas PUC-CAMPINAS	BRAZIL	8140
+1829	Sastra University	INDIA	8139
+1830	AgroCampus Ouest (Rennes+Angers)	FRANCE	8134
+1831	Abdullah Gül University Kayseri	TURKEY	8122
+1832	China University of Petroleum Beijing / 中国石油大学(北京)	CHINA	8119
+1833	ESADE Business School Barcelona	SPAIN	8109
+1834	Warsaw University of Life Sciences (Agricultural University) / Szkoła Główna Gospodarstwa Wiejskiego w Warszawie	POLAND	8076
+1835	Trakya University	TURKEY	8069
+1836	École Nationale Vétérinaire de Toulouse	FRANCE	8062
+1836	Ural Federal University / Уральский федеральный университет	RUSSIA	8062
+1838	University of Mauritius	MAURITIUS	8058
+1839	Universidade do Vale do Paraíba UNIVAP	BRAZIL	8051
+1840	Gdansk University / Uniwersytet Gdański	POLAND	8024
+1841	Birla Institute of Technology Mesra Ranchi	INDIA	8007
+1842	Montanuniversität Leoben / University of Leoben	AUSTRIA	7981
+1843	Indian Institute of Technology Gandhinagar	INDIA	7980
+1844	Royal Roads University	CANADA	7974
+1845	Western Illinois University	USA	7941
+1846	Gjovik University College / Høgskolen i Gjøvik	NORWAY	7921
+1846	Prince of Songkla University	THAILAND	7921
+1846	Yüzüncü Yil University	TURKEY	7921
+1849	Western University of Health Sciences	USA	7919
+1850	Walden University (National Technological University)	USA	7913
+1851	King Khalid University	SAUDI ARABIA	7910
+1852	China University of Mining & Technology / 中国矿业大学	CHINA	7909
+1853	University of Buckingham	UNITED KINGDOM	7898
+1854	Iran University of Medical Sciences	IRAN	7884
+1855	Universidade da Madeira	PORTUGAL	7878
+1856	Thompson Rivers University	CANADA	7873
+1857	Poznan University of Economics / Uniwersytet Ekonomiczny w Poznaniu	POLAND	7847
+1858	Indiana University/Purdue University Fort Wayne	USA	7845
+1859	Radford University	USA	7826
+1860	Teerthanker Mahaveer University Moradabad	INDIA	7820
+1860	Mills College	USA	7820
+1862	Razi University Kermanshah	IRAN	7779
+1863	Yaşar University	TURKEY	7774
+1864	Trinity College	USA	7762
+1865	Slovak University of Technology in Bratislava / Slovenská technická univerzita v Bratislave	SLOVAKIA	7761
+1866	Ochanomizu University / お茶の水女子大学	JAPAN	7745
+1867	Universidade Federal do Maranhão	BRAZIL	7732
+1868	Universidade Federal de Alfenas UNIFAL-MG	BRAZIL	7729
+1869	Tennessee State University	USA	7700
+1870	National United University	TAIWAN	7682
+1871	Ionian University	GREECE	7663
+1872	Norfolk State University	USA	7661
+1873	University of Hartford	USA	7659
+1874	Universidad de la Frontera	CHILE	7658
+1875	University of Economics Prague / Vysoká Škola Ekonomická v Praze	CEZCH REPUBLIC	7654
+1876	Institut Teknologi Brunei	BRUNEI	7629
+1877	Moscow Institute of Physics and Technology / Московский физико-технический институт государственный университет	RUSSIA	7610
+1878	National Institute of Technology Calicut	INDIA	7604
+1879	Indian Institute of Science Education and Research Thiruvananthapuram	INDIA	7573
+1880	Universitas Diponegoro	INDONESIA	7572
+1881	Université du Littoral Côte d'Opale	FRANCE	7566
+1882	Bahauddin Zakariya University	PAKISTAN	7562
+1883	Whitman College	USA	7511
+1884	Maharaja Sayajirao University of Baroda	INDIA	7510
+1885	Université des Antilles et de la Guyane	FRANCE	7484
+1886	École Nationale Supérieure de l'Electronique et de ses Applications	FRANCE	7479
+1887	Indian Institute of Technology Patna	INDIA	7454
+1888	Islamic Azad University Tehran Science & Research Branch	IRAN	7438
+1888	Kitasato University / 北里大学	JAPAN	7438
+1890	Universidad Nacional de Quilmes	ARGENTINA	7432
+1891	Indiana University of Pennsylvania	USA	7416
+1892	Kyoto Sangyo University / 京都産業大学	JAPAN	7408
+1893	Rider University	USA	7402
+1894	École des Mines Albi Carmaux	FRANCE	7400
+1895	University of the Punjab	PAKISTAN	7373
+1896	Indian Institute of Science Education and Research Bhopal	INDIA	7369
+1897	Northern Michigan University	USA	7361
+1898	Changwon National University / 창원대학교	SOUTH KOREA	7351
+1899	Universidade Federal de Itajubá UNIFEI	BRAZIL	7346
+1900	Universidade Federal Rural de Pernambuco UFRPE	BRAZIL	7339
+1901	Eastern Illinois University	USA	7338
+1902	Colegio de México	MEXICO	7325
+1903	North Eastern Hill University	INDIA	7324
+1904	Université de Technologie Belfort Montbéliard	FRANCE	7315
+1905	Universiti Malaysia Terengganu	MALAYSIA	7304
+1906	An Najah National University	PALESTINE	7302
+1907	Bloomsburg University of Pennsylvania	USA	7301
+1908	Texas A&M International University	USA	7289
+1909	Kunsan National University / 군산대학교	SOUTH KOREA	7286
+1910	Birzeit University	PALESTINE	7283
+1911	Nagoya City University / 名古屋市立大学	JAPAN	7255
+1912	Novosibirsk State University / Новосибирский государственный университет	RUSSIA	7248
+1913	Universidad del Valle de Guatemala	GUATEMALA	7241
+1914	Urmia University	IRAN	7240
+1915	Taipei Medical University	TAIWAN	7237
+1916	Indiana State University	USA	7232
+1917	Lucknow University	INDIA	7222
+1918	Universidad Autónoma de Tamaulipas	MEXICO	7219
+1919	Huaqiao University / 华侨大学	CHINA	7192
+1920	Pontificia Universidad Católica de Valparaíso	CHILE	7189
+1921	Kedge Business School (ESC Technologie Toulon + Euromed)	FRANCE	7178
+1922	Nanjing University of Technology / 南京工业大学	CHINA	7172
+1923	Indian Institute of Technology Mandi	INDIA	7147
+1924	Occidental College	USA	7145
+1925	University of Mazandaran Babolsar	IRAN	7118
+1926	North China Electric Power University / 华北电力大学	CHINA	7112
+1927	Zurcher Hochschule für Angewandte Wissenschaften	SWITZERLAND	7107
+1928	Kermanshah University of Medical Sciences	IRAN	7082
+1929	Technological Education Institute of Athens	GREECE	7072
+1930	Universidad de Antofagasta	CHILE	7054
+1931	University of Saint Francis Fort Wayne Indiana	USA	7048
+1932	Canterbury Christ Church University	UNITED KINGDOM	7042
+1933	Indian Institute of Management Ahmedabad	INDIA	7034
+1934	Malaviya National Institute of Technology	INDIA	7022
+1935	Netaji Subhas Institute of Technology	INDIA	7001
+1936	Mustafa Kemal University	TURKEY	6995
+1937	Widener University	USA	6993
+1938	Staffordshire University	UNITED KINGDOM	6983
+1939	University of Puget Sound	USA	6980
+1940	Ahvaz Jundishapur University of Medical Sciences	IRAN	6971
+1941	Yıldırım Beyazıt University	TURKEY	6958
+1942	Butler University	USA	6956
+1943	Chuo University / 中央大学	JAPAN	6954
+1944	Université du Droit et de la Santé Lille 2	FRANCE	6924
+1945	Eastern Virginia Medical School	USA	6913
+1946	Kaunas University of Technology / Kauno technologijos universitetas	LITHUANIA	6908
+1947	Universidade Federal do Estado do Rio de Janeiro UNIRIO	BRAZIL	6904
+1948	University of Kragujevac / Универзитет у Крагујевцу / Univerzitet u Kragujevcu	SERBIA	6899
+1948	Izmir Katip Celebi University / İzmir Kâtip Çelebi Üniversitesi	TURKEY	6899
+1950	Antioch University	USA	6890
+1951	Central University of Rajasthan	INDIA	6859
+1952	University of Detroit Mercy	USA	6846
+1953	Hamilton College	USA	6842
+1954	Hashemite University	JORDAN	6836
+1955	Texas Southern University	USA	6835
+1956	Catholic University of Korea / 가톨릭대학교	SOUTH KOREA	6834
+1957	Universidade Estadual do Oeste do Paraná UNIOSTE	BRAZIL	6831
+1958	Ss Cyril and Methodius University Skopje	MACEDONIA FYR	6822
+1959	Texas A&M University Kingsville	USA	6820
+1960	Chiang Mai University	THAILAND	6816
+1961	Shippensburg University of Pennsylvania	USA	6815
+1962	European University Cyprus	CYPRUS	6809
+1963	Institut Polytechnique Lasalle Beauvais	FRANCE	6803
+1964	Indian School of Mines Dhanbad	INDIA	6795
+1965	La Salle University	USA	6788
+1966	Universitas Islam Negeri Syarif Hidayatullah Jakarta	INDONESIA	6781
+1967	Stetson University	USA	6765
+1968	Düzce University	TURKEY	6760
+1969	Kwame Nkrumah University of Science & Technology	GHANA	6747
+1970	University Goce Delcev Stip	MACEDONIA FYR	6735
+1970	Warsaw School of Economics / Szkoła Główna Handlowa w Warszawie	POLAND	6735
+1972	Centro Universitário da Fundação Educacional Inaciana	BRAZIL	6714
+1973	State University of New York at New Paltz	USA	6705
+1974	Universidad de Cartagena	COLOMBIA	6697
+1974	Sokoine University of Agriculture	TANZANIA	6697
+1976	Centro de Investigación en Matemáticas	MEXICO	6695
+1976	Ohio Northern University	USA	6695
+1976	Youngstown State University	USA	6695
+1979	Manhattan College	USA	6670
+1980	Kahramanmaras Sutcu Imam University	TURKEY	6669
+1981	University of Development Alternative	BANGLADESH	6668
+1982	Quinnipiac University	USA	6667
+1983	Tottori University / 鳥取大学	JAPAN	6660
+1984	California State University San Marcos	USA	6653
+1985	University of Ghana	GHANA	6652
+1986	American University of Ras al Khaimah AURAK	ARAB EMIRATES	6649
+1986	Shantou (Swatow) University / 汕头大学 (汕頭大學)	CHINA	6649
+1988	Waterford Institute of Technology	IRELAND	6642
+1988	Mevlana University	TURKEY	6642
+1990	Grinnell College	USA	6637
+1991	German University in Cairo	EGYPT	6636
+1992	Eastern Kentucky University	USA	6620
+1993	Eckerd College	USA	6618
+1994	Afyon Kocatepe University	TURKEY	6616
+1995	Babasaheb Bhimrao Ambedkar University Lucknow	INDIA	6600
+1996	Lingnan University	HONG KONG	6598
+1997	Abdul Wali Khan University Mardan	PAKISTAN	6583
+1998	Taibah University	SAUDI ARABIA	6579
+1999	National Institute of Technology Warangal	INDIA	6578
+2000	Universidad de Talca	CHILE	6574
+2001	Universidad del Norte Barranquilla	COLOMBIA	6554
+2002	California State University Monterey Bay	USA	6553
+2003	Nanjing University of Posts & Telecommunications / 南京邮电大学	CHINA	6533
+2004	Indiana University Northwest	USA	6531
+2005	College at Brockport SUNY	USA	6526
+2006	Universidade do Vale do Rio dos Sinos UNISINOS	BRAZIL	6521
+2007	Fukushima University / 福島大学	JAPAN	6513
+2008	State University of New York at Oswego	USA	6507
+2009	Instituto de Empresa Business School	SPAIN	6497
+2010	Université Paris 8 Vincennes St Denis	FRANCE	6476
+2011	Norwegian University for Sport and Physical Education / Norges Idrettshøgskole	NORWAY	6473
+2012	Juniata College	USA	6470
+2012	University of Wisconsin la Crosse	USA	6470
+2014	University of Warmia and Mazury / Uniwersytet Warmińsko-Mazurski w Olsztynie (Akademia Rolniczo-Techniczna w Olsztynie)	POLAND	6462
+2015	Mae Fah Luang University	THAILAND	6461
+2016	Yerevan State University	ARMENIA	6451
+2017	Shibaura Institute of Technology / 芝浦工業大学	JAPAN	6429
+2018	Alba Graduate Business School	GREECE	6425
+2019	Universidad Nacional de San Luis	ARGENTINA	6416
+2020	Hawaii Pacific University	USA	6407
+2021	Universidade do Mogi Das Cruzes UMC	BRAZIL	6394
+2022	Universidad del Desarrollo	CHILE	6366
+2023	Alagappa University	INDIA	6359
+2024	University of Tampa	USA	6336
+2025	Universidad Nacional del Comahue	ARGENTINA	6321
+2026	Government College University Faisalabad	PAKISTAN	6314
+2027	Universidade de Fortaleza UNIFOR	BRAZIL	6303
+2028	Devi Ahilya Vishwavidyalaya Indore	INDIA	6261
+2028	Arak University	IRAN	6261
+2030	Universität Hildesheim	GERMANY	6251
+2031	Université Abou Bekr Belkaid Tlemcen	ALGERIA	6247
+2032	Grande École d'ingénieurs de Techniques Avancées Groupe ENSTA	FRANCE	6246
+2033	Shaanxi Normal University / 陕西师范大学	CHINA	6245
+2034	University of Craiova	ROMANIA	6244
+2035	Merrimack College	USA	6229
+2036	Grant MacEwan College	CANADA	6218
+2037	Universiti Teknikal Malaysia Melaka	MALAYSIA	6205
+2038	California State University Chico	USA	6202
+2039	PRES Université de Toulouse	FRANCE	6191
+2039	Ahmedabad University	INDIA	6191
+2041	Universidade Cidade de São Paulo UNICID	BRAZIL	6185
+2042	Hitotsubashi University / 一橋大学	JAPAN	6182
+2043	Universidade do Sul de Santa Catarina UNISUL	BRAZIL	6169
+2044	Kristianstad University College / Högskolan Kristianstad	SWEDEN	6168
+2045	Diyala University	IRAQ	6159
+2046	Université du Québec Abitibi-Temiscamingue	CANADA	6139
+2047	National University of Sciences & Technology	PAKISTAN	6123
+2047	University of Bridgeport	USA	6123
+2049	Universidade Federal de São João del Rei UFSJ	BRAZIL	6120
+2050	Berry College	USA	6111
+2051	University Babes Bolyai	ROMANIA	6102
+2052	Universidade de Caxias do Sul	BRAZIL	6101
+2053	Wenzhou University / 温州大学	CHINA	6094
+2054	Hanoi University of Science & Technology	VIETNAM	6090
+2055	Medical University of Silesia in Katowice / Śląski Uniwersytet Medyczny w Katowicach	POLAND	6085
+2056	Universidad de las Américas Puebla	MEXICO	6083
+2057	Ternopil National Economy University	UKRAINE	6065
+2058	Universidad de la Habana	CUBA	6054
+2059	Mount Saint Vincent University	CANADA	6052
+2060	Universidade Federal dos Vales do Jequitinhonha e Mucuri UFVJM	BRAZIL	6037
+2061	Vel Tech Dr RR & Dr SR Technical University	INDIA	6029
+2062	University of Taipei (Taipei Municipal University of Education)	TAIWAN	6022
+2063	Çankaya University	TURKEY	5995
+2064	Université Lumiere Lyon 2	FRANCE	5990
+2065	Pontificia Universidade Católica do Minas Gerais PUC-MINAS	BRAZIL	5981
+2066	University of Kalyani	INDIA	5971
+2067	Kwansei Gakuin University / 関西学院大学	JAPAN	5969
+2067	Liverpool Hope University	UNITED KINGDOM	5969
+2069	Brawijaya University	INDONESIA	5966
+2070	California State University Bakersfield	USA	5944
+2071	University of Cumbria	UNITED KINGDOM	5935
+2072	University of Miskolc / Miskolci Egyetem ME	HUNGARY	5925
+2073	Université de Evry Val d'Essonne	FRANCE	5923
+2074	King Faisal University	SAUDI ARABIA	5901
+2075	University of Nicosia	CYPRUS	5900
+2076	Universidad Autónoma del Estado de México	MEXICO	5876
+2077	Shahed University	IRAN	5866
+2078	Atilim University	TURKEY	5861
+2079	Skidmore College	USA	5860
+2080	Universidade Estadual de Santa Cruz UESC	BRAZIL	5857
+2081	Université du Havre	FRANCE	5849
+2082	Buffalo State SUNY	USA	5843
+2083	Military Academy of Technology in Warsaw / Wojskowa Akademia Techniczna Jarosława Dąbrowskiego w Warszawie	POLAND	5833
+2084	Universidad de Sonora	MEXICO	5821
+2085	Sri Sivasubramaniya Nadar College of Engineering	INDIA	5814
+2086	Advanced Centre for Treatment, Research & Education in Cancer	INDIA	5811
+2087	University at Bialystok / Uniwersytet w Białymstoku	POLAND	5800
+2088	Southern Utah University	USA	5787
+2089	Clark Atlanta University	USA	5780
+2090	Allegheny College	USA	5773
+2091	Universidad Nacional de Rosario	ARGENTINA	5772
+2092	Metropolitan State College of Denver	USA	5768
+2093	École Nationale des Travaux Publics de l'Etat	FRANCE	5760
+2094	Tallinn University / Tallinna Ülikool	ESTONIA	5755
+2095	Universidad Diego Portales	CHILE	5744
+2096	Guru Nanak Dev University	INDIA	5743
+2097	Universidade de Passo Fundo	BRAZIL	5725
+2098	Universiti Tun Hussein Onn Malaysia	MALAYSIA	5722
+2099	Universidad Católica del Norte	CHILE	5720
+2100	Taylor's University	MALAYSIA	5685
+2101	Kochi University of Technology / 高知工科大学	JAPAN	5681
+2102	Cape Peninsula University of Technology	SOUTH AFRICA	5678
+2103	Minnesota State University Mankato	USA	5677
+2104	University of the Sciences in Philadelphia	USA	5674
+2105	Charotar University of Science & Technology	INDIA	5665
+2106	Dhirubai Ambani Institute of Information and Communication Technology	INDIA	5662

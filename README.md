@@ -41,7 +41,7 @@ conflict_prefer('lag', 'dplyr')
 
 ## Result
 
-[QS rankings QQ plot](qs-qqplot.svg)
+Work in progress
 
 ## License
 

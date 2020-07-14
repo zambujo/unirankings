@@ -9,9 +9,10 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
+
 ```
 
-# `unirankings`: Comparing University Rankings of Different Countries
+# unirankings: Comparing University Rankings of Different Countries
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -36,8 +37,9 @@ Comparing the cumulative distribution functions of university rankings among 4 c
 To run the R scripts in the R folder, you need the following libraries:
 
 ```{r}
-library(tidyverse)
-library(here)
+shhh <- suppressPackageStartupMessages
+shhh(library(tidyverse))
+shhh(library(here))
 ```
 
 

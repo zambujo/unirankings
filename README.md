@@ -42,21 +42,9 @@ conflict_prefer('filter', 'dplyr')
 conflict_prefer('lag', 'dplyr')
 ```
 
-  - To update the data, run:
+  - To update the data, run [`R/read.R`](R/read.R);
 
-<!-- end list -->
-
-``` r
-source(here("R", "read.R"))
-```
-
-  - To summarize the data by country, run:
-
-<!-- end list -->
-
-``` r
-source(here("R", "logic.R"))
-```
+  - To summarize the data by country, run [`R/logic.R`](R/logic.R).
 
 ## Result
 

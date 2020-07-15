@@ -45,15 +45,15 @@ conflict_prefer('filter', 'dplyr')
 conflict_prefer('lag', 'dplyr')
 ```
 
-* To update the data, run:
+* To update the data, run [`R/read.R`](R/read.R);
 
-```{r, eval=FALSE}
+```{r, include=FALSE}
 source(here("R", "read.R"))
 ```
 
-* To summarize the data by country, run:
+* To summarize the data by country, run [`R/logic.R`](R/logic.R).
 
-```{r, eval=FALSE}
+```{r, include=FALSE}
 source(here("R", "logic.R"))
 ```
 

@@ -9,7 +9,6 @@ knitr::opts_chunk$set(
   collapse = TRUE,
   comment = "#>"
 )
-
 ```
 
 # unirankings: Comparing University Rankings of Different Countries
@@ -17,7 +16,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-Comparing the cumulative distribution functions of university rankings among 4 countries: Switzerland, Germany, France, and the US.
+Quick comparison of the distributions of QS university rankings among a number of countries.
 
 ## Introduction
 
@@ -27,27 +26,64 @@ Comparing the cumulative distribution functions of university rankings among 4 c
 
 ## Usage
 
-To run the R scripts in the R folder, you need the following libraries:
+* Make sure you have the following libraries:  
 
-```{r}
-shhh <- suppressPackageStartupMessages
-shhh(library(tidyverse))
-shhh(library(jsonlite))
-shhh(library(janitor))
-shhh(library(here))
-shhh(library(conflicted))
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(jsonlite)
+library(janitor)
+library(countrycode)
+library(here)
+library(conflicted)
 ```
+
+> Optionally, sort out the most likely conflicts: 
+
 ```{r, message=FALSE}
-# sort out most likely conflicts
 conflict_prefer('flatten', 'purrr')
 conflict_prefer('filter', 'dplyr')
 conflict_prefer('lag', 'dplyr')
 ```
 
+* To update the data, run:
+
+```{r, eval=FALSE}
+source(here("R", "read.R"))
+```
+
+* To summarize the data by country, run:
+
+```{r, eval=FALSE}
+source(here("R", "logic.R"))
+```
 
 ## Result
 
-Work in progress
+```{r, message=FALSE, warning=FALSE}
+df <- read_csv(here("data", "qs.csv"))
+country_summary <- read_csv(here("data", "country_summary.csv"))
+```
+
+
+```{r, message=FALSE, warning=FALSE}
+country_summary %>% 
+  filter(count_score >= 5) %>% 
+  arrange(desc(median_score)) %>%
+  select(country, `n(scores)` = count_score, `med(score)` = median_score) %>%
+  head(10) %>%
+  knitr::kable()
+```
+
+
+```{r boxplots, message=FALSE, warning=FALSE, fig.asp=0.618, fig.align='center'}
+df %>% 
+  filter(country %in% c("CH", "FR", "NL", "US", "GB", "DE")) %>%
+  ggplot(aes(score, country)) +
+  labs(
+    title = "QS University Score Distribution Per Country",
+    subtitle = "For CH, DE, FR, GB, NL, and the US") +
+  geom_boxplot(varwidth = TRUE)
+```
 
 ## License
 

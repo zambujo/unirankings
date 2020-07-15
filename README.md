@@ -7,8 +7,8 @@
 
 <!-- badges: end -->
 
-Quick comparison of the distributions of QS university rankings among a
-number of countries.
+Comparison of the distributions of QS university scores among a number
+of countries.
 
 ## Introduction
 
